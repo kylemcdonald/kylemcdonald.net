@@ -1,0 +1,104 @@
+body {
+ font-family: "Trebuchet MS", sans-serif;
+ font-size: 11px;
+ background-image:url('halftone.gif');
+ background-repeat: repeat-x;
+ background-color: #000;
+ color: #fff;
+}
+
+/* my name */
+h1 {
+ display: none;
+}
+
+#email {
+ margin: 4px;
+}
+
+/* section titles */
+h2 {
+ display: inline;
+ clear:both;
+ background-color: #ec008c;
+ color: #fff;
+ padding: 4px;
+ position: relative;
+ top: 4px;
+}
+
+/* project titles */
+h3 {
+ display: inline;
+ font-size: 1em;
+}
+
+.section {
+ float:left;
+}
+
+.section>.title {
+}
+
+.cell {
+ clear: none;
+ float: left;
+ width: 256px;
+ border: 1px dotted;
+ margin: 4px;
+ padding: 8px;
+ background-color: #fff;
+ background-image: url('widelines.gif');
+ color: #000;
+}
+
+.project {
+ height: 312px;
+}
+
+.project img {
+ border: 1px #888 solid;
+}
+
+.cell div {
+ padding: 4px;
+ background-color: #fff;
+}
+
+.project .description {
+ max-height: 10em;
+ overflow: auto;
+ margin-bottom: 4px
+}
+
+.cell ul {
+ padding: 4px;
+ background-color: #fff;
+ margin: 0;
+}
+
+.cell li {
+ display: inline;
+}
+
+/* everything but the img */
+
+.cell * a {
+ text-decoration: none;
+ padding: 0 2px;
+}
+
+.cell * a:link {
+ color: #000;
+ background-color: #ffee00;
+}
+
+.cell * a:visited {
+ color: #fff;
+ background-color: #00abec;
+}
+
+.cell * a:hover {
+ color: #fff;
+ background-color: #ec008c;
+}
