@@ -12,8 +12,9 @@ h1 {
  display: none;
 }
 
-#email {
+.contact img {
  margin: 4px;
+ border: 0;
 }
 
 /* section titles */
