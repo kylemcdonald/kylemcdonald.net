@@ -1,0 +1,790 @@
+                          
+
+html body {
+	background-color: #000;
+	margin: auto 0px;
+	color: #333;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.3em;
+}
+/*
+div{ border: 1px dashed #ccc; }
+*/
+/********************* SHOW/HIDE *********************/
+
+div.hide { visibility: hidden; }
+div.show { visibility: visible; }
+
+/********************* TYPOGRAPHY *********************/
+
+p{
+	line-height: 1.5em;
+	font-size: 1em;
+}
+
+img {border: 0px none;}
+
+a {
+	color: #ff0000;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #ff0000;
+	background-color:#ffff00;
+}
+
+dl, dt, dd, ul{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+	padding-bottom: .5em;
+}
+
+
+li{
+	margin:0;
+	padding:0 0 0 0;
+	margin-bottom: .1em;
+}
+
+h1{
+	font-size:1em;
+	padding:0;
+	margin:0;
+	font-weight:normal;
+	margin-bottom:.5em;
+	/*border-bottom:1px dashed #aaa;*/
+	text-transform: uppercase;
+}
+
+h2{
+	font-size:1.1em;
+	padding:0;
+	margin:0;
+	font-weight:normal;
+	margin-bottom:.5em;
+	text-transform: uppercase;
+}
+
+h3, h4{ font-weight:bold; text-transform:uppercase;}
+
+h5{ font-weight:bold; text-transform:uppercase;}
+
+
+
+table{
+	vertical-align:top;
+}
+td{ 
+	/*border: 1px solid #aaa;*/
+	border-top: 1px dashed #ddd;
+	vertical-align:top;
+	padding:2px 20px 10px 0px;
+}
+td h5{
+	vertical-align:top;
+	margin:0;
+	padding:0;
+}
+
+form { margin:0px; }
+form input, form select, textarea { 
+	font:11px Arial, sans-serif; 
+	padding:2px; 
+	border:1px solid #aaa;
+}
+
+
+.pageTitle{
+	font-size:2em;
+	font-weight:100;
+	letter-spacing:.1em;
+	line-height:1.1em;
+	text-transform: uppercase;
+}
+
+.callout{
+	font-size:1.2em;
+	font-style:italic;
+	line-height:1.3em;
+	color: #fff;
+	/*padding-bottom:.8em;*/
+}
+
+#breadcrumb{
+	font-size:.9em;
+}
+
+
+.sectionTitle{
+	font-size:1.3em;
+	font-weight: 200; /* thin */
+	text-transform:uppercase;
+	font-style:italic;
+	
+}
+
+
+
+
+
+/********************* LAYOUT *********************/
+
+/* 100% black bar across top */
+#top-bar {
+	width: 100%;
+	height: 30px;
+	/*text-align: left;*/
+	background-color: #000;
+	color: #ccc;	
+	border-bottom: 1px solid #333;
+	margin:0;
+	padding:0;
+	x-index:-1;
+}
+
+/* centered in black bar - holds logo and nav */
+#header { 
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	overflow: auto;
+}
+#header-new { 
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	overflow: auto;
+}
+
+#logo { 
+	float: left;
+	width: 215px;
+	height:30px;
+	padding:0;
+	/*margin-right: 138px;*/
+	padding-top:5px;
+	border:0;
+	margin:0;
+}
+
+#logo a:hover {
+        text-decoration: none;
+        color: #000000;  
+        background-color:#000000;
+}
+
+/* NAV - inline list */
+#nav {
+	float:left;
+	width:350px;
+	font-size:.9em;
+	margin:0;
+	padding:0;
+	padding-top:12px;
+}
+#nav li {
+	display:inline;
+	padding:0;
+	padding-right: 30px;
+	margin:0;
+}
+#nav a{color:#fff;}
+#nav a:hover{
+	background:none;
+	background-color:#000;
+	color:#ffff00;
+	text-decoration:none;
+	background:none;
+}
+
+#itp30logo {
+	float: left;
+	width:50px;
+	height:30px;
+	padding-left: -10px;
+	padding:0;
+	/*margin-right: 138px;*/
+	padding-top:1px;
+	border:0;
+	margin:0;
+
+}
+#itp30logo a{color:#0000;}
+#itp30logo a:hover{
+	//background:none;
+        background-color:#000;
+        color:#00000;
+        text-decoration:none;
+}
+
+#itpSummerCamp {
+	font-family: "Courier New", Courier, monospace 
+	font-size: .8em;
+/* 	font-weight: 600; */
+	color:#ffff00;
+	float: right;
+	width:170px;
+    height:30px;
+/*     padding-top:12px; */
+    padding-left: 15px;
+/*     border:0; */
+/*     margin:0; */
+
+}
+
+
+#itpSummerCamp a{color:#ffff00;}
+#itpSummerCamp a:hover{
+        background-color:#000;
+        color:#ffffff;
+        text-decoration:none;
+}
+
+
+/* TISCH DROPDWON ------*/
+#dropdown-bar {
+	width: 100%;
+	height: 1px;
+	margin:0;
+	padding:0;
+	left: -10px;
+	position:absolute;
+	z-index:4000;
+
+}
+#dropdown-holder  { 
+	height:1px;
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	overflow:visible;
+
+}
+#tisch_dropdown  { 
+	color:#9a63c9; 
+	background-color:#000; 
+	padding:12px 12px 24px 12px; 
+	width:176px; 
+	margin-top: -3px;
+	visibility:hidden;
+}
+#tisch_dropdown  a{ color:#9a63c9; }
+#tisch_dropdown  a:hover{ color:#9a63c9; text-decoration:underline; background-color:#000; }
+
+
+
+/* 100% width - bg image sits behind content */
+#bgImage{
+	position: absolute; 
+	left: 0;
+	margin:0;
+	padding:0;
+	width: 100%;
+	height: 100%;
+	background-color: #000;	
+}
+
+/* 100% wide - holds content */
+#content-wrapper {
+	width: 100%;
+	margin:0;
+	padding:0;
+	margin-bottom: 50px;
+}
+
+/* 800px, white-bg, centered, holds menu and content-col*/
+#content {
+	width: 800px;
+	height:100%;
+	margin: 0;
+	padding: 0;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	padding-top:20px;
+	padding-bottom:20px;
+	position: relative;
+	z-index: 1000;
+	overflow: auto;
+	background-color: #fff;
+}
+
+
+#wrapToggle {
+	position: relative;
+	z-index: 1003;
+	overflow: auto;
+	width: 800px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 20px 0px 0 0px;
+}
+
+#bgImageToggle {
+   cursor: pointer; /* hand */
+        float: right;
+	margin: 0;
+        padding: 0;
+}
+
+
+
+
+/* box-model hack for IE */
+* html #content {
+   \width: 880px; /* for IE5 and IE6 in quirks mode */
+   w\idth: 800px; /* for IE6 in standards mode */
+ }
+
+/* 200 px left-column */
+.menu{
+	float: left;
+	width: 200px;
+	padding:0;
+	margin:0;
+	margin-left:15px;
+	margin-right: 38px;
+}
+
+/* 500 px right-column */
+.main-content{
+	float: left;
+	width: 500px;
+	padding:0;
+	margin:0;
+}
+
+.section {
+	margin:0;
+	padding:0;
+	margin-bottom:.5em;
+}
+
+/* SECTION & SIDEBLOCK AR THE SAME*/
+.sideblock {
+	margin:0;
+	padding:0;
+	margin-bottom:1.3em;
+}
+
+
+.section-address {
+	margin:0;
+	padding:0;
+	margin-bottom:1.3em;
+	font-size:.9em;
+}
+
+
+
+
+/* HOME ......................................*/
+
+#homeBlock1{
+	float: left;
+	width: 250px;
+	padding:0;
+	margin:0;
+	color: #fff;
+	margin-right: 30px;
+	font-weight:normal;
+	margin-left:15px;
+    /*background-image: url(support/70.png);*/
+}
+* html #homeBlock1 {
+   \width: 210px; /* for IE5 and IE6 in quirks mode */
+   w\idth: 210px; /* for IE6 in standards mode */
+ }
+#homeBlock1 a{color:#ffff00;}
+#homeBlock1 a:hover{color:#ffff00; background-color:#ff0000;}
+#homeBlock2{
+	float: left;
+	width: 150px;
+	overflow:auto;
+	padding:0;
+	color: #fff;
+	margin-right: 30px;
+	line-height:1.4em;
+	font-weight:normal;
+    /*background-image: url(support/70.png);*/
+}
+#homeBlock2 a{color:#ffff00;}
+#homeBlock2 a:hover{color:#ffff00; background-color:#ff0000;}
+#homeBlock3{
+	float: left;
+	width: 250px;
+	padding:0;
+	color: #fff;
+	margin-right: 30px;
+	font-weight:normal;
+	line-height:1em;
+    /*background-image: url(support/70.png);*/
+}
+#homeBlock3 a{color:#ffff00;}
+#homeBlock3 a:hover{color:#ffff00; background-color:#ff0000;}
+#homeBlock3 li{ margin-bottom:.7em;} 
+#homeBlock4{
+	float:left;
+        font-size:1.1em;
+	line-height: 1.3em;
+	text-align: left;
+	width: 350px;
+	padding:0;
+	margin:0;
+	margin-left:100px;
+	color: #fff;
+	font-weight:normal;
+}
+* html #homeBlock4 {
+   \width:  325px; /* for IE5 and IE6 in quirks mode */
+   w\idth: 325px; /* for IE6 in standards mode */
+ }
+
+#itp30block a:hover {
+        text-decoration: none;
+        background-color:transparent;
+}
+
+#foot {
+	position: relative;
+	z-index: 1001;
+	overflow: auto;
+	width: 800px;
+	height:25px;
+	margin-top:1px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	font-size:.9em;
+}
+
+/* gallery ......................................*/
+
+#gallery-ontent-wrapper {
+	width: 100%;
+	margin:0;
+	padding:0;
+	margin-bottom: 50px;
+}
+
+/* 800px, white-bg, centered, holds menu and content-col*/
+#gallery-content {
+	width: 800px;
+	height:100%;
+	margin: 0;
+	padding: 0;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	padding-top:20px;
+	padding-bottom:20px;
+	position: relative;
+	z-index: 1000;
+	overflow: auto;
+	background-color: #fff;
+}
+
+
+#headContent{
+	position: relative;
+	z-index: 4000;
+	margin-left: 22px;
+	margin-right: 22px;
+	margin-top: 15px;
+	height:60px;
+	width: 755px;
+}
+
+#galleryContent{
+	width: 755px;
+	height: 500px;
+	position: relative;
+	z-index: 0;
+	margin-left: 22px;
+	margin-right: 22px;
+	margin-top: 15px;
+
+
+
+}
+
+#galleryHead{
+	position: relative;
+	padding:0;
+	margin:0;
+	
+}
+
+#galleryTitle{
+	position: relative;
+	float: left;
+	padding:0;
+	margin:0;
+	color: #000;
+	font-size:2em;
+	font-weight:500;
+	line-height:1em;
+	  	
+}
+
+#galleryYear{
+	position: relative;
+	float: left;
+	padding:0;
+	margin:0;
+	color: #000;
+	
+	
+}
+
+* html #galleryYear{
+   \width: 210px; /* for IE5 and IE6 in quirks mode */
+   w\idth: 210px; /* for IE6 in standards mode */
+ }
+ 
+ #galleryYear a{color:#0000;}
+ #galleryYear a:hover{color:#000; background-color:#000;}
+
+
+#galleryState{
+	float: left;
+	width: 250px;
+	padding:0;
+	color: #919191;
+	margin-left: 6px;
+	margin-right: 30px;
+    
+}
+
+#galleryState a{color:#ffff00;}
+#galleryState a:hover{color:#ffff00; background-color:#ff0000;}
+#galleryState li{ margin-bottom:.7em;} 
+
+#galleryMeta{
+	position: relative;
+	width: 755px;
+	float: left;
+	padding:0;
+	margin-top:3px;
+	color: #919191;
+	font-size:1em;
+	font-weight:normal;
+	
+}
+
+#semesterList{
+	position: relative;
+	width: 300px;
+	float: left;
+	padding:0;
+	margin:0;
+	z-index: 40001;
+}
+
+
+* html #semesterList{
+   \width: 210px; /* for IE5 and IE6 in quirks mode */
+   w\idth: 210px; /* for IE6 in standards mode */
+ }
+#semesterList a{color:#0000;}
+#semesterList a:hover{color:#000; background-color:#000;}
+
+
+#searchLink{
+	float: right;
+	padding:0;
+	margin-left: 6px;
+    
+}
+#searchLink a{color:#ffff00;}
+#searchLink a:hover{color:#ffff00; background-color:#ff0000;}
+#searchLink li{ margin-bottom:.7em;} 
+
+
+
+
+/* Semesters Dropdown ------*/
+#semestersDropdown-bar {
+	width:120px;
+	height: 1px;
+	margin:0;
+	padding:0;
+	left: -10px;
+	position:absolute;
+	z-index:4000;
+
+}
+#semesterDropdown-holder  { 
+position: relative;
+	height:1px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:visible;
+
+
+}
+#semester_dropdown  {
+	position: relative; 
+	color: #00ff00; 
+	background: solid;
+	background-color:#ffff; 
+	padding:16px 12px 12px 12px; 
+	width:102px; 
+	margin-top: -1px;
+	border:1px dotted #919191;
+	visibility:hidden;
+	z-index:4000;
+}
+#semester_dropdown  a{ color:#919191; }
+#semester_dropdown  a:hover{ color:#000; text-decoration:underline; }
+
+
+
+
+
+/* gallery projects display ......................................*/
+
+
+table.projectsTable{
+	float: left;
+	width:755px;
+	padding: 0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	border-spacing: 0px;
+	border-spacing: 0px;
+	text-align:left;
+	z-index: 0;
+
+	
+}
+	
+table.projectsTable tr{
+	align:left;
+	margin:0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+
+		
+}
+	
+table.projectsTable td{
+	border-top: none;
+	margin:0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width:164px;
+
+}
+	
+table.projectsTable td.colPad{
+	width: 40px;
+}
+	
+	
+	
+#gridImage{
+	float: left;
+	margin:0px 0px 4px 0px;
+}
+
+#gridImage a{ color:#919191};
+#gridImage a:hover {border:2px solid #919191; cursor:pointer;}
+
+#gridTextProject{
+	width: 165px;
+	float: left;
+	color: #000;
+	font-size:1em;
+	font-weight:bolder;
+}
+
+#gridTextProject a{ color:#000};
+#gridTextProject a:hover { color:#919191; background-color:none; cursor:pointer;}
+
+#gridTextCreator{
+	width: 160px;
+	float: left;
+	color: #919191;
+	font-size:1em;
+	font-style: italic;
+	margin-bottom: 25px;
+	
+}
+
+#gridTextCreator a{ color:#919191};
+#gridTextCreator a:hover { color:#000; background-color:none; cursor:pointer;}
+
+
+
+#galleryYear{
+	float: left;
+	padding:0;
+	margin:0;
+	color: #000;	
+    
+}
+* html #galleryYear{
+   \width: 210px; /* for IE5 and IE6 in quirks mode */
+   w\idth: 210px; /* for IE6 in standards mode */
+ }
+#galleryYear a{color:#0000;}
+#galleryYear a:hover{color:#000; background-color:#000;}
+
+
+
+/* end of gallery css ......................................*/
+
+
+
+
+
+#foot a{color:#fff;}
+#foot a:hover{color:#ff0000;text-decoration:none;}
+
+#foot li {
+	display:inline;
+	padding: 2px 10px 2px 10px;
+	margin:0;
+}
+
+/************ TEMP FIX (poject page features)*************/
+.feature-sm{
+	padding:0;
+	font-size: .97em;
+	width:100%;
+	overflow: auto;
+	margin-bottom:1.6em;
+}
+.imgThumb{
+	float:left;
+	width:33%;
+	background-color:#eee;
+	border:1px solid #ccc;
+	margin-right:.5em;
+}
+.colmnWide{
+	float: left;
+	width: 380px;
+	padding:0;
+	margin-right: 38px;
+	background-color: #fff;
+	/*background-color: #ccc;*/
+}
+
+
+
+
+
+d-color: #ccc;*/
+}
+
+
+
+
+
