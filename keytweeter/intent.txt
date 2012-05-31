@@ -1,0 +1,19 @@
+keytweeter is a year-long performance driven by a custom application that automatically posts every 140 characters I type directly to  Twitter.
+
+As of early March 2010, there are about 25 thousand posts, or 3.6 million keystrokes. By the end there will be enough to fill five and a half copies of "Crime and Punishment".
+
+It includes my entire masters thesis, saying good night and good morning to my girlfriend on Skype, writing code, playing keyboard-based video games, leaving comments on blogs, every email I've written, and this text.
+
+keytweeter is inspired by the proliferation of social networking and other life-sharing technologies like Facebook, YouTube and Vimeo, Flickr and Picasa, and all the rants and epiphanies via LiveJournal, Blogger, Twitter and SMS.
+
+There is no "pause" button, but I remove posts manually when requested. I've learned that communication never "belongs" to an individual, and if there is any ownership at all, it is distributed amongst all the parties involved. As a warning, I've changed my signature on all outgoing communication to reflect the fact that what I type is publicly accessible.
+
+There have been a bunch of situations where I've needed to hide information at the request of others. Doing freelance work for a large company recently, I was asked not to tweet the company's name until the project was completed. Helping a magician with a trick via email, I was asked not to reveal the trick's secret. Or when away from my girlfriend for two months last year, there were some personal conversations she asked me not to post.
+
+I've made a distinction between sharing "information" and "control of information." If I were to tweet my passwords and credit card number, anyone could impersonate me. Posting my email address would make me easy bait for spammers. These few things are removed using a small configuration file.
+
+In the spirit of the performance, the source code and application were released at the beginning of the project, and there is at least one other Twitter user running the application with their own configuration file.
+
+Making a practice out of putting private information in a public space has changed my relationships with others and the way I communicate with them. Now whenever I talk with friends, I have this pervasive feeling that everyone else I know is listening in on the conversation. Initially, this inspired a sense of paranoia, but I eventually moved beyond that to a point where I now feel like I'm more honest and fair in relationships both online and offline.
+
+When blogs first gained popularity, it was unclear why anyone would want to open their personal journal to the entire internet. With the advent of microblogs we're asking the same question about the minutae of daily life. It's become commonplace to share various intimate details of your life with an unknown online audience, but the same questions remain: why share, who is reading, and when will the noise overpower the signal?

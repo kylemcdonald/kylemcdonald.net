@@ -1,0 +1,10 @@
+keytweeter may be installed in one of two distinct configurations depending on the available resources.
+
+The first configuration requires a computer with an internet connection and a monitor. The monitor should be installed approximately at eye level. A web browser is run at full screen, and set to auto-refresh the page http://twitter.com/keytweeter every 10 seconds. The twitter status page should be visible for the majority of those 10 seconds.
+
+The second configuration requires a mobile phone with an unlimited text messaging plan. The mobile phone is mounted on a wall at a slight angle, at chest level, as you might see in a mobile phone store. A Twitter account is then set up for the mobile phone. The mobile phone is verified via Twitter's "Settings" panel. The following messages are then sent to Twitter:
+
+FOLLOW keytweeter
+ON keytweeter
+
+This will send every keytweeter post to the mobile phone via SMS. The phone should be configured to display the latest SMS continually without user intervention.
