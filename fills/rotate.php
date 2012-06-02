@@ -180,7 +180,7 @@ if (isset($_GET['img'])) {
 	closedir($handle);
 
 	if (count($fileList) > 0) {
-		$imageNumber = time() % count($fileList);
+		$imageNumber = microtime() % count($fileList);
 		$img = $folder.$fileList[$imageNumber];
 	}
 }
