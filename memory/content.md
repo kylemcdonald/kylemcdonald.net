@@ -64,6 +64,7 @@
 
 ![taiwan](http://farm9.staticflickr.com/8053/8126262843_92c09e27e4.jpg)
 
+* First beard, after getting six stitches in my lip from a pedestrian who ran into me on my bike.
 * Made "[Missing](http://www.youtube.com/watch?v=bFXJa_1_bHg)" with Matt Mets, Aramique and The xx.
 
 ![missing](http://farm9.staticflickr.com/8209/8286051235_09c65ec960.jpg)
