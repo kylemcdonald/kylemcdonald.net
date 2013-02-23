@@ -60,10 +60,11 @@
 * Saw the [release of openFrameworks 0071-0073](http://openframeworks.cc/download).
 * Went to [UCSB](http://www.flickr.com/photos/kylemcdonald/8123011709/in/photostream) to [share my work](http://www.mat.ucsb.edu/595M/?m=20121023) and meet grad students in the MAT program.
 * Showed "[Remask](http://www.cinekid.nl/festivalprogram/entry/6185)" with Arturo Castro at Cinekid Festival in Amsterdam.
-* Showed "People Staring at&#8203; Computers" [in Taiwan](http://www.flickr.com/photos/kylemcdonald/8126262843/) in after receiving an honorary mention for the piece from Ars Electronica.
+* Showed "People Staring at&#8203; Computers" [in Taiwan](http://www.flickr.com/photos/kylemcdonald/8126262843/) after receiving an honorary mention for the piece from Ars Electronica.
 
 ![taiwan](http://farm9.staticflickr.com/8053/8126262843_92c09e27e4.jpg)
 
+* Showed "[Eyeshine](https://vimeo.com/51117889)" with Golan Levin [in Taiwan](http://www.ntmofa.gov.tw/english/showinfomation1_1.aspx?SN=3688).
 * First beard, after getting six stitches in my lip from a pedestrian who ran into me on my bike.
 * Made "[Missing](http://www.youtube.com/watch?v=bFXJa_1_bHg)" with Matt Mets, Aramique and The xx.
 
