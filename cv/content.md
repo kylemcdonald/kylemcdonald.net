@@ -1,12 +1,35 @@
 # Kyle McDonald
 
+## Uncategorized
+
+* BSP at fitc toronto 2013
+* workshop at toronto w interaccess
+* scratchml during art hack day scholes 2012
+* residency at ycam for ram dance toolkit
+* residency at ycam for pro cam toolkit
+* all the places i've done "faces" with arturo
+* "remask" at cinekid
+* psac in taiwan
+* eyeo 2011, 2012, 2013
+* resonate 2013 talk + workshop + panel
+* fitc tokyo face substitution
+* halifax hpx digital panel, talk, blind self portrait
+* push conference in munich
+* fitc vancouver 2012
+* openFrameworks code review 2012
+* residency w joanie at ScreenLab
+* cinekid "face++" with zach
+* feed:rdio project with zach at sxsw
+* wired article
+
 ## Exhibitions
 
 ### 2013
 
-* [CLICK Festival: F.A.T. Lab (Too Lazy to Fail)](http://clickfestival.dk/program-2013%20/f-a-t-lab-too-lazy-to-fail) Elsinore, Denmark.
+* [CLICK Festival](http://clickfestival.dk/program-2013%20/light-leaks), _[Light Leaks](https://vimeo.com/66167082)_. Elsinore, Denmark.
 * [F.A.T. Gold: Five Years of Notorious R&D](http://eyebeam.org/events/fat-gold). Eyebeam Center for Art and Technology, New York City.
 * [See Yourself Sensing](http://www.sjsu.edu/art/events/openings/). San Jose State University, California.
+* [NODE Festival Exhibition: The Rules](http://node.vvvv.org/), _[ExR3](https://vimeo.com/60042933)_. Frankfurt, Germany.
 
 ### 2012
 
@@ -36,7 +59,22 @@
 
 ### 2013
 
+* [F.A.T. Lab (Too Lazy to Fail)](http://clickfestival.dk/program-2013%20/f-a-t-lab-too-lazy-to-fail) at CLICK Festival. Elsinore, Denmark.
+* [How to Give Everything Away](http://fitc.ca/article/how-to-give-everything-away-with-kyle-mcdonald/) at FITC. Toronto, Canada.
+* [Digital Interaction](http://fitc.ca/presentation/digital-interaction/) workshop with Daito Manabe at FITC. Toronto, Canada.
+* [Getting to Know You](http://fitc.ca/presentation/getting-to-know-you/) talk at FITC. Toronto, Canada.
+* [Inbox Zero Residency](http://www.temporaryseoul.org/?p=1464) at [GaOk](http://www.temporaryseoul.org) Cultural Center. Seoul, South Korea.
+* [Vector of Culture](http://www.temporaryseoul.org/?p=1441) talk at [GaOk](http://www.temporaryseoul.org) Cultural Center. Seoul, South Korea.
+* [How to Give Everything Away](http://fitc.ca/presentation/how-to-give-everything-away-3/) talk at FITC. Tokyo, Japan.
+
 ### 2012
+
+* [NODE Festival Symposium](http://node13.vvvv.org/program/symposium/). Frankfurt, Germany.
+* [NODE Festival Panel: Communities in Open Source Projects. Responsibilities and Challenges](http://node13.vvvv.org/program/creative-applications-panel-discussion/). Frankfurt, Germany.
+* [How to Give Everything Away](http://fitc.ca/presentation/how-to-give-everything-away-2/) talk at FITC. Vancouver, Canada.
+* [Intro to openFrameworks](http://fitc.ca/presentation/intro-to-openframeworks/) workshop at FITC. Toronto, Canada.
+* Moderating [Digital Media and Open Source](http://fitc.ca/presentation/digital-media-and-open-source/) panel at FITC. Toronto, Canada.
+* [How to Give Everything Away](http://fitc.ca/presentation/how-to-give-everything-away/) talk at FITC. Toronto, Canada.
 
 ### 2011
 
@@ -98,7 +136,9 @@
 
 ## Commissions
 
-* EletroAxé suit with Lucas Werthein for Carlinhos Brown at Carnaval in Salvador (2011)
+* _[Roseheading](http://www.thebeautybehindit.com/compute/)_ for [XO Communications](http://www.xo.com/) (2013)
+* _[Missing](http://www.youtube.com/watch?v=bFXJa_1_bHg)_ for [Sonos](www.sonos.com), at Sonos Studio, Los Angeles. (2012)
+* _EletroAxé_ for Carlinhos Brown. Salvador, Brazil. (2011)
 * Sonic identity for a weekly design podcast, for Ayesha Mathews-Wadhwa (2008)
 * R17 Rainforest sonification for trio of string sextets, for Christian Karl Jansen (2007)
 * Emerald Laminata sonification, for Christian Karl Jansen and Lutz Haufschild (2006)
@@ -147,6 +187,7 @@
 
 ## Publications
 
+* [When Art, Apple and the Secret Service Collide: ‘People Staring at Computers’](www.wired.com/threatlevel/2012/07/people-staring-at-computers/all/), wired.com (2012)
 * [The Vibrobyte: A Haptic Interface for Co-Located Performance](http://kylemcdonald.net/vibrobyte/nime-vibrobyte-6p.pdf), McDonald K, Kouttron D, Bahn C, Braasch J & Oliveros P (New Interfaces for Musical Expression 2009)
 * Language sounds like natural physical events, Changizi MA, McDonald K & Counterman E (under review)
 * Ecological Warnings, Changizi MA, Brucksch M, Kotecha R, McDonald K & Rio K (under review) 
