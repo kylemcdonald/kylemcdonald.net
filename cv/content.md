@@ -1,27 +1,5 @@
 # Kyle McDonald
 
-## Uncategorized
-
-* BSP at fitc toronto 2013
-* workshop at toronto w interaccess
-* scratchml during art hack day scholes 2012
-* residency at ycam for ram dance toolkit
-* residency at ycam for pro cam toolkit
-* all the places i've done "faces" with arturo
-* "remask" at cinekid
-* psac in taiwan
-* eyeo 2011, 2012, 2013
-* resonate 2013 talk + workshop + panel
-* fitc tokyo face substitution
-* halifax hpx digital panel, talk, blind self portrait
-* push conference in munich
-* fitc vancouver 2012
-* openFrameworks code review 2012
-* residency w joanie at ScreenLab
-* cinekid "face++" with zach
-* feed:rdio project with zach at sxsw
-* wired article
-
 ## Exhibitions
 
 ### 2013
@@ -30,16 +8,30 @@
 * [F.A.T. Gold: Five Years of Notorious R&D](http://eyebeam.org/events/fat-gold). Eyebeam Center for Art and Technology, New York City.
 * [See Yourself Sensing](http://www.sjsu.edu/art/events/openings/). San Jose State University, California.
 * [NODE Festival Exhibition: The Rules](http://node.vvvv.org/), _[ExR3](https://vimeo.com/60042933)_. Frankfurt, Germany.
+* _Blind Self Portrait_ at FITC. Toronto, Canada.
 
 ### 2012
 
+* _[Remask](http://www.cinekid.nl/festivalprogram/entry/6185)_ at [Cinekid](http://www.cinekid.nl/). Amsterdam, Netherlands.
+* _People Staring at Computers_ at [TEA/Collective Wisdom](http://tea.ntmofa.gov.tw/), National Taiwan Museum of Fine Arts. Taichung City, Taiwan.
+* _Blind Self Portrait_ at [Halifax Digital](http://halifaxpopexplosion.com). Halifax, Canada.
+* _Blind Self Portrait_ for [Slap Dash: Installation and Demonstration](https://www.facebook.com/events/419238798116673/) at [Launchpad](https://www.facebook.com/pages/LaunchPad/289165126884). Brooklyn, New York.
+* _Blind Self Portrait_ for [Interactive Show 2012](http://wiki.nycresistor.com/wiki/NYCR_2012_The_Interactive_Show) at [NYC Resistor](https://wiki.nycresistor.com/). Brooklyn, New York.
 * [Fair Exchange](http://eyebeam.org/events/bookstore-fair-exchange). Eyebeam Center for Art and Technology, New York City.
 * [Wired Frames](http://eyebeam.org/events/exhibition-wired-frames).  Eyebeam Center for Art and Technology, New York City.
 * [Videogame mythologies](http://playtime.ailleurs.ch/en/exposition/bodies-and-minds/). Maison d’Ailleurs. Yverdon-les-Bains, Swizterland.
-* AI-Plus. [National Taiwan Museum of Fine Arts](http://www.ntmofa.gov.tw/english/), Taiwan.
+* _[Eyeshine](https://vimeo.com/51117889)_ with Golan Levin at AI-Plus. [National Taiwan Museum of Fine Arts](http://www.ntmofa.gov.tw/english/), Taiwan.
 
 ### 2011
 
+* _[Face++](http://www.cinekid.nl/festivalprogram/entry/5412)_ at [Cinekid](http://www.cinekid.nl/). Amsterdam, Netherlands.
+* _[The Janus Machine](http://www.bouillants.fr/the-janus-machine-2/)_ at Bouillants. Rennes, France.
+* _[The Janus Machine](http://2011.sonar.es/en/sonarmatica/kyle-mcdonald-zach-lieberman-theo-watson-daito-manabe_47.html)_ at OFFFMàtica (Sonar/OFFF). Barcelona, Spain.
+* _[The Janus Machine](http://www.artrock.org/programme/accueil-programme/217548/exposition-d-art-numerique/index.php5?jour=jour4)_ at Art Rock Festival. Saint-Brieuc, France.
+
+### 2010
+
+* _[The Janus Machine](http://www.aec.at/center_exhibitions_project_en.php?id=162)_ at Ars Electronica Center. Linz, Austria.
 
 ### 2009
 
@@ -60,33 +52,53 @@
 ### 2013
 
 * [F.A.T. Lab (Too Lazy to Fail)](http://clickfestival.dk/program-2013%20/f-a-t-lab-too-lazy-to-fail) at CLICK Festival. Elsinore, Denmark.
+* Intro to openFrameworks at [Interaccess](http://www.interaccess.org/). Toronto, Canada.
 * [How to Give Everything Away](http://fitc.ca/article/how-to-give-everything-away-with-kyle-mcdonald/) at FITC. Toronto, Canada.
 * [Digital Interaction](http://fitc.ca/presentation/digital-interaction/) workshop with Daito Manabe at FITC. Toronto, Canada.
 * [Getting to Know You](http://fitc.ca/presentation/getting-to-know-you/) talk at FITC. Toronto, Canada.
+* Surveillance and Transparency panel at Resonate Festival. Belgrade, Serbia.
+* Life Away from Keyboard talk at Resonate Festival. Belgrade, Serbia.
+* [Computer Vision in Interactive Arts](http://resonate.io/2013/education/) with Golan Levin at Resonate Festival. Belgrade, Serbia.
 * [Inbox Zero Residency](http://www.temporaryseoul.org/?p=1464) at [GaOk](http://www.temporaryseoul.org) Cultural Center. Seoul, South Korea.
 * [Vector of Culture](http://www.temporaryseoul.org/?p=1441) talk at [GaOk](http://www.temporaryseoul.org) Cultural Center. Seoul, South Korea.
 * [How to Give Everything Away](http://fitc.ca/presentation/how-to-give-everything-away-3/) talk at FITC. Tokyo, Japan.
+* Reactor for Awareness in Motion Dance Toolkit residency at Yamaguchi Center for Arts and Media. Yamaguchi, Japan.
 
 ### 2012
 
+* [How to Give Everything Away](http://www.mat.ucsb.edu/595M/?m=20121023) at the UCSB MAT Program. Santa Barbara, California.
+* [Appropriating New Technologies](http://nextberlin.eu/person/kyle-mcdonald/) at NEXT Festival. Berlin, Gerayn
+* [Face as Interface](http://clickfestival.dk/?page_id=1144) with Daito Manabe at CLICK Festival. Elsinore, Denmark.
+* [openFrameworks code review](http://www.flickr.com/photos/kylemcdonald/7981552870/in/photostream). Lincolnville, Maine.
+* [openFrameworks developers conference](http://www.flickr.com/photos/vanderlin/6775015004/). Detroit, Michigan. 
+* [The Secrets of Creation](http://halifaxpopexplosion.com/sessions/#THESECRETS) Panel at [Halifax Digital](http://halifaxpopexplosion.com). Halifax, Canada.
+* How to Give Everything Away at [Halifax Digital](http://halifaxpopexplosion.com/sessions/#HOWTOGIVE). Halifax, Canada.
+* How to Give Everything Away at [Push Conference](http://push-conference.com/2012/). Munich, Germany.
+* [ScreenLab](http://screenlabseries.tumblr.com) residency at University of Salford. Manchester, England.
 * [NODE Festival Symposium](http://node13.vvvv.org/program/symposium/). Frankfurt, Germany.
 * [NODE Festival Panel: Communities in Open Source Projects. Responsibilities and Challenges](http://node13.vvvv.org/program/creative-applications-panel-discussion/). Frankfurt, Germany.
 * [How to Give Everything Away](http://fitc.ca/presentation/how-to-give-everything-away-2/) talk at FITC. Vancouver, Canada.
 * [Intro to openFrameworks](http://fitc.ca/presentation/intro-to-openframeworks/) workshop at FITC. Toronto, Canada.
 * Moderating [Digital Media and Open Source](http://fitc.ca/presentation/digital-media-and-open-source/) panel at FITC. Toronto, Canada.
 * [How to Give Everything Away](http://fitc.ca/presentation/how-to-give-everything-away/) talk at FITC. Toronto, Canada.
+* How to Give Everything Away talk at [eyeo festival](http://eyeofestival.com/2012). Minneapolis, Minnesota.
+* Intro to Computer Vision workshop with Golan Levin at [eyeo festival](http://eyeofestival.com/2012). Minneapolis, Minnesota.
+* Signal Processing for Artists workshop with Golan Levin at [eyeo festival](http://eyeofestival.com/2012). Minneapolis, Minnesota.
 
 ### 2011
 
-* Artist talk for Open Frameworks Developers Conference at Carnegie Mellon University
+* Guest Research Project residency at Yamaguchi Center for Arts and Media. Yamaguchi, Japan.
+* 3d Scanning workshop with Golan Levin at [eyeo festival](http://eyeofestival.com/2011). Minneapolis, Minnesota.
+* openFrameworks Developers Conference at The STUDIO for Creative Inquiry, Carnegie Mellon University. Pittsburgh, Pennsylvania.
+* Artist talk at Carnegie Mellon University. Pittsburgh, Pennsylvania.
 
 ### 2010
 
 * Artist talk for VIA PGH 2010 at Carnegie Mellon University
 * Structured Light 3D Scanning workshop at Dorkbot Saskatoon
-* Eyewriter 2.0 at MakerFaire New York
-* Artist residency at Studio for Creative Inquiry at Carnegie Mellon University
-* Structured Light 3D Scanning hacking at the Open Frameworks Lab for Decode at the V&A
+* Eyewriter 2.0 at MakerFaire New York.
+* Artist residency at The STUDIO for Creative Inquiry, Carnegie Mellon University. Pittsburgh, Pennsylvania.
+* Structured Light 3D Scanning hacking at the openFrameworks Lab for Decode at the V&A
 * Structured Light 3D Scanning workshop at Madlab in Manchester for InProcess:ing
 
 ### 2009
@@ -96,9 +108,15 @@
 
 ### 2008
 
-* OpenFrameworks Lab as resident artist-researcher, Ars Electronica
+* openFrameworks Lab as resident artist-researcher, Ars Electronica Festival.
 
 ## Collaboration and Affiliations
+
+### 2012
+
+* [artsec](https://groups.google.com/forum/?fromgroups#!forum/artsec) meetup and mailing list (ongoing)
+* [Mother](http://www.flickr.com/photos/kylemcdonald/sets/72157630940848962/) with Inmi Lee.
+* [ScratchML](http://fffff.at/scratch-markup-language-sml/) at Art Hack Day Scholes.
 
 ### 2011
 
@@ -138,6 +156,7 @@
 
 * _[Roseheading](http://www.thebeautybehindit.com/compute/)_ for [XO Communications](http://www.xo.com/) (2013)
 * _[Missing](http://www.youtube.com/watch?v=bFXJa_1_bHg)_ for [Sonos](www.sonos.com), at Sonos Studio, Los Angeles. (2012)
+* Interactive face-controlled musical interface with Zach Lieberman for [rdio](http://rdio.com/) at SXSW. Austin, Texas. (2013)
 * _EletroAxé_ for Carlinhos Brown. Salvador, Brazil. (2011)
 * Sonic identity for a weekly design podcast, for Ayesha Mathews-Wadhwa (2008)
 * R17 Rainforest sonification for trio of string sextets, for Christian Karl Jansen (2007)
@@ -205,6 +224,7 @@
 ## Recognition
 
 * Nominated for the [Designs of the Year Digital award 2012](http://www.designsoftheyear.com/2012/01/31/face-substitution-new-york-usa-arturo-castro-and-kyle-mcdonald/) for _Face Substitution_
+* [Jury Selection](http://www.j-mediaarts.jp/dl/awards/jury/en/1.pdf) from Japan Media Arts Festival for _People Staring at Computers_ (2012)
 * [Honorary Mention](http://prix2012.aec.at/prixwinner/6037/) from Prix Ars Electronica for _People Staring at Computers_ (2012)
 * Received founders Award of Excellence from Rensselaer Polytechnic Institute
 * McKinney Contest 1st place in Undergraduate Electronic Arts, for two consecutive years
