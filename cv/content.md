@@ -10,26 +10,27 @@
 
 ### 2012
 
+* [Fair Exchange](http://eyebeam.org/events/bookstore-fair-exchange). Eyebeam Center for Art and Technology, New York City.
+* [Wired Frames](http://eyebeam.org/events/exhibition-wired-frames).  Eyebeam Center for Art and Technology, New York City.
+* [Videogame mythologies](http://playtime.ailleurs.ch/en/exposition/bodies-and-minds/). Maison d’Ailleurs. Yverdon-les-Bains, Swizterland.
 * AI-Plus. [National Taiwan Museum of Fine Arts](http://www.ntmofa.gov.tw/english/), Taiwan.
 
 ### 2011
 
-People Staring at Computers exhibited on tumblr, and in computer stores across Manhattan Sharing Interviews conducted with EtherPad and stored on GitHub
 
 ### 2009
 
-* keytweeter, a keylogger tweeting every 140 typed characters, discussed in Neural
-* pppd, work for conceptual computability theory, at Machine Dreams exhibition in Seoul
+* [Machine Dreams](http://koian.org/machine_dreams_kyle_mcdonald). Seoul, Korea.
 
 ### 2008
 
-* Bike to Radioshack, T-Minus Time-Art Festival at Galapagos Art Space, New York City
-* Integrated Electronic Arts, Fall MFA Show, 2008: Please Remember Me When I'm Gone, video, electronics, LEDs & tents, with Rebecca Weisman Future Fragments, sound poetry/generative poetry/noise hybrid I See Beats, cell-phone driven beat sequencer for crowd improvisation Selected Generative Works, generative visual work and instruction pieces
+* T-Minus Time-Art Festival. Galapagos Art Space, New York City.
+* Integrated Electronic Arts Fall MFA Show.
 
 ### 2007
 
-* Chips, generative installation at 51 3rd Street, Troy, NY
-* Generative Works in Processing, Electronic Language International Festival, São Paulo, Brazil
+* Window installation at 51 3rd Street. Troy, NY.
+* Electronic Language International Festival (FILE). São Paulo, Brazil
 
 ## Residencies, Lectures and Workshops
 
@@ -76,7 +77,7 @@ People Staring at Computers exhibited on tumblr, and in computer stores across M
 ### 2009
 
 * Night Lights interactive installation and building projection with YesYesNo
-* Portrait Machine interactive photography installation with Theo Watson for CBK Amsterdam, later exhibited at CineKid 2009
+* Portrait Machine interactive photography installation with Theo Watson for [CBK Amsterdam](http://www.cbkamsterdam.nl/index.php?secID=4&artID=116), later exhibited at [CineKid 2009](http://www.cinekid.nl/festivalprogram/block/1294)
 * Realtime Empirical Mode Decomposition implementation with Doug Van Nort
 
 ### 2008
@@ -102,7 +103,30 @@ People Staring at Computers exhibited on tumblr, and in computer stores across M
 * R17 Rainforest sonification for trio of string sextets, for Christian Karl Jansen (2007)
 * Emerald Laminata sonification, for Christian Karl Jansen and Lutz Haufschild (2006)
 
-## Press and Reviews
+## Press
+
+### 2012
+
+* [ScratchML, encoding scratches](http://www.neural.it/art/2012/06/scratchml_encoding_scratches.phtml), Neural
+* [Subpixel, de-pixeled posters](http://www.neural.it/art/2012/07/subpixel_depixeled_posters.phtml), Neural
+
+### 2011
+
+* [Digital Artists Virtually Swap Faces With Brad Pitt and Marilyn Monroe](http://blogs.artinfo.com/artintheair/2011/09/21/digital-artists-virtually-swap-faces/), ARTINFO
+* [Creating Art via Webcam, Secretly](http://www.nytimes.com/2011/07/20/nyregion/at-2-apple-stores-creating-art-via-webcam-secretly.html?_r=0), The New York Times
+* [Secret Service raids Apple store webcam 'artist'](http://www.bbc.co.uk/news/technology-14080438), BBC
+* [People doing things](http://thefactoryfactory.com/wordpress/?p=831), thefactoryfactory
+* [Feds seize kit from Apple Store spyware artist](http://www.theregister.co.uk/2011/07/08/kyle_mcdonald_meets_the_secret_service/), The Register
+* [Public spaces and private faces in new media art](http://rwdfoundation.org/new_ideas__directions/arts_and_culture/public_spaces_and_private_faces_in_new_media_art), Robert W. Deutsch Foundation
+* [People Staring at Computers: the discreet gaze of the commodities](http://www.neural.it/art/2011/09/people_staring_at_computers_th.phtml), Neural
+* [Tangible digital (case studies)](http://eyemagazine.com/feature/article/tangible-digital-case-studies), Eye Magazine
+
+### 2010
+
+* [KeyTweeter, Twitting Without Filters](http://www.neural.it/art/2009/07/keytweeter_twitting_without_fi.phtml), Neural
+* [Les réseaux sociaux ne laissent pas indifférent](http://www.lalibre.be/societe/cyber/article/569283/les-reseaux-sociaux-ne-laissent-pas-indifferent.html), la libre
+* [El bailarín y su doble virtual](http://elpais.com/diario/2010/05/10/madrid/1273490663_850215.html#) EL PAÍS
+
 
 ## Performance
 
@@ -113,7 +137,7 @@ People Staring at Computers exhibited on tumblr, and in computer stores across M
 
 ### 2008
 
-* Tele-morphosis, International Computer Music Conference, with SARC Roots Ensemble in Belfast, CCRMA SoundWIRE Ensemble at Stanford University
+* [Tele-morphosis](https://vimeo.com/1623028), International Computer Music Conference, with SARC Roots Ensemble in Belfast, CCRMA SoundWIRE Ensemble at Stanford University
 
 ### 2007
 
@@ -123,7 +147,7 @@ People Staring at Computers exhibited on tumblr, and in computer stores across M
 
 ## Publications
 
-* The Vibrobyte: A Haptic Interface for Co-Located Performance, McDonald K, Kouttron D, Bahn C, Braasch J & Oliveros P (New Interfaces for Musical Expression 2009)
+* [The Vibrobyte: A Haptic Interface for Co-Located Performance](http://kylemcdonald.net/vibrobyte/nime-vibrobyte-6p.pdf), McDonald K, Kouttron D, Bahn C, Braasch J & Oliveros P (New Interfaces for Musical Expression 2009)
 * Language sounds like natural physical events, Changizi MA, McDonald K & Counterman E (under review)
 * Ecological Warnings, Changizi MA, Brucksch M, Kotecha R, McDonald K & Rio K (under review) 
 
@@ -139,5 +163,7 @@ People Staring at Computers exhibited on tumblr, and in computer stores across M
 
 ## Recognition
 
-Received founders Award of Excellence from Rensselaer Polytechnic Institute
-Contest 1st place in Undergraduate Electronic Arts, for two consecutive years
+* Nominated for the [Designs of the Year Digital award 2012](http://www.designsoftheyear.com/2012/01/31/face-substitution-new-york-usa-arturo-castro-and-kyle-mcdonald/) for _Face Substitution_
+* [Honorary Mention](http://prix2012.aec.at/prixwinner/6037/) from Prix Ars Electronica for _People Staring at Computers_ (2012)
+* Received founders Award of Excellence from Rensselaer Polytechnic Institute
+* McKinney Contest 1st place in Undergraduate Electronic Arts, for two consecutive years
