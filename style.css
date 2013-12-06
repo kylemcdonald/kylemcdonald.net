@@ -20,12 +20,12 @@ h1 {
 /* section titles */
 h2 {
  display: inline;
- clear:both;
+ position:absolute;
+ left: -6px;
+ top: -38px;
  background-color: #ec008c;
  color: #fff;
  padding: 4px;
- position: relative;
- top: 4px;
 }
 
 /* project titles */
@@ -36,12 +36,11 @@ h3 {
 
 .section {
  float:left;
-}
-
-.section>.title {
+ margin: 20px 0;
 }
 
 .cell {
+ position: relative;
  clear: none;
  float: left;
  width: 256px;
