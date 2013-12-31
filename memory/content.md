@@ -1,3 +1,20 @@
+# 2013
+
+* Met someone through online dating
+* [ExR3](https://vimeo.com/60042933) with Elliot Woods
+* [RAM Dance Toolkit]
+* [Inbox Zero Residency](http://www.temporaryseoul.org/?p=1464) at [GaOk](http://www.temporaryseoul.org/)
+* CLICK Festival 2013 in Helsingor, Denmark.
+* [Light Leaks](https://vimeo.com/66167082) with [Jonas Jongejan](http://halfdanj.dk/)
+* [Social Roulette](http://www.socialroulette.net/) with [Jonas Lund](http://jonaslund.biz/) and [Jonas Jongejan](http://halfdanj.dk/)
+* Started work on a project code-named "Digital Art" with Golan Levin
+* [Open Fit](http://openfitlab.com/) with [Lisa Kori](http://lisakori.net/)
+* [FriendFlop](http://fffff.at/friendflop) with [Lauren McCarthy](http://lauren-mccarthy.com/)
+* [Going Public](http://fffff.at/going-public)
+* [us+](http://lauren-mccarthy.com/usplus/) with [Lauren McCarthy](http://lauren-mccarthy.com/)
+* Moved to Williamsburg
+
+
 # 2012
 
 * [Moved](http://www.flickr.com/photos/kylemcdonald/6793491665/in/photostream) into a new apartment on New Year's Eve.
