@@ -36,6 +36,7 @@
 * Spoke at [eyeo festival 2013](http://eyeofestival.com).
 * Created [Open Fit](http://openfitlab.com/) with [Lisa Kori](http://lisakori.net/).
 * Spoke at [IAPP Navigate](https://www.privacyassociation.org/events_and_programs/navigate_2013) in Portsmouth.
+* Started running.
 * Moved from Bedfored-Stuyvesant to Williamsburg.
 * Visited Naoshima.
 
