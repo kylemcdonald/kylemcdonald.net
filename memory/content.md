@@ -1,19 +1,66 @@
 # 2013
 
-* Met someone through online dating
-* [ExR3](https://vimeo.com/60042933) with Elliot Woods
-* [RAM Dance Toolkit]
-* [Inbox Zero Residency](http://www.temporaryseoul.org/?p=1464) at [GaOk](http://www.temporaryseoul.org/)
-* CLICK Festival 2013 in Helsingor, Denmark.
-* [Light Leaks](https://vimeo.com/66167082) with [Jonas Jongejan](http://halfdanj.dk/)
-* [Social Roulette](http://www.socialroulette.net/) with [Jonas Lund](http://jonaslund.biz/) and [Jonas Jongejan](http://halfdanj.dk/)
-* Started work on a project code-named "Digital Art" with Golan Levin
-* [Open Fit](http://openfitlab.com/) with [Lisa Kori](http://lisakori.net/)
-* [FriendFlop](http://fffff.at/friendflop) with [Lauren McCarthy](http://lauren-mccarthy.com/)
-* [Going Public](http://fffff.at/going-public)
-* [us+](http://lauren-mccarthy.com/usplus/) with [Lauren McCarthy](http://lauren-mccarthy.com/)
-* Moved to Williamsburg
+* First time meeting someone through [online dating](http://socialturkers.com/).
+* Created [ExR3](https://vimeo.com/60042933) with Elliot Woods.
 
+![exr3](http://farm9.staticflickr.com/8227/8495777448_57115cf333_z.jpg)
+
+* Created [RAM Dance Toolkit](https://vimeo.com/64703174) at [YCAM](http://interlab.ycam.jp/).
+
+![ram](http://distilleryimage11.ak.instagram.com/6c769d247a7f11e2b3e122000a1f9a4f_7.jpg)
+
+* Added stickers to my laptop for the first time.
+
+![stickers](http://farm9.staticflickr.com/8385/8539455178_6bd54aa141_z.jpg)
+
+* Spoke at [FITC Tokyo](http://fitc.ca/event/tokyo/).
+* First time at the [robot retaurant](http://instagram.com/p/U6SG8uyfZQ/) in Tokyo.
+* Performed [Inbox Zero Residency](http://www.temporaryseoul.org/?p=1464) at [GaOk](http://www.temporaryseoul.org/).
+* Exhibited "People Staring at&#8203; Computers" and a Google Glass/Sergey Brin speed project with FAT Lab at the FAT GOLD 5 show at Eyebeam.
+
+![fatgold](http://distilleryimage9.ak.instagram.com/f61d5b569aed11e2890a22000a1fbc9a_7.jpg)
+
+* Attended [Resonate 2013](http://resonate.io/2013/), leading the "Computer Vision for Interaction" workshop with Golan Levin, presenting and acting on a panel.
+* Turned things [upside down](http://www.flickr.com/photos/kylemcdonald/tags/ikea/) at Ikea, hid books in the shelves, wrote my sister a letter about childhood from the kid's room.
+* Lead the "[Digital Interaction](http://fitc.ca/presentation/digital-interaction/)" hand tracking and stimulation workshop with Daito Manabe at [FITC Toronto 2013](http://fitc.ca/event/to13/).
+* Created [Light Leaks](https://vimeo.com/66167082) with [Jonas Jongejan](http://halfdanj.dk/) at CLICK Festival 2013 in Helsingor, Denmark.
+
+![lightleaks](http://farm9.staticflickr.com/8117/8746970565_d2c7333f54_z.jpg)
+
+* Created [Social Roulette](http://www.socialroulette.net/) with [Jonas Lund](http://jonaslund.biz/) and [Jonas Jongejan](http://halfdanj.dk/).
+* Started work on a project code-named "Digital Art" with Golan Levin.
+* Installed "[Only Everything Will Last Forever](http://artsy.net/artwork/kyle-mcdonald-only-everything-lasts-forever)" at Bitforms.
+
+![oelf](http://farm3.staticflickr.com/2840/8914048203_3d8d807e6a_z.jpg)
+
+* Spoke at [eyeo festival 2013](http://eyeofestival.com).
+* Created [Open Fit](http://openfitlab.com/) with [Lisa Kori](http://lisakori.net/).
+* Spoke at [IAPP Navigate](https://www.privacyassociation.org/events_and_programs/navigate_2013) in Portsmouth.
+* Moved from Bedfored-Stuyvesant to Williamsburg.
+* Visited Naoshima.
+
+![naoshima](http://distilleryimage6.ak.instagram.com/3de44bd6fe8311e28cc022000a9f308d_7.jpg)
+
+* Organized the first Japanese openFrameworks developers conference and saw the long-awaited release of OF 0.8.0.
+
+![devcon](http://distilleryimage8.ak.instagram.com/ca8ac80affcb11e283b822000a9f124c_7.jpg)
+
+* Taught "[Appropriating Interaction Technologies](www.creativeapplications.net/reviews/appropriating-interaction-technologies-social-hacking-at-itp/)" with [Lauren McCarthy](http://lauren-mccarthy.com/)
+
+![ait](http://distilleryimage11.ak.instagram.com/c6f23cc468bb11e39ba112736d69badf_8.jpg)
+
+* First collaboration with Brian House, titled "Conversnitch", with complete documentation coming in 2014.
+* Created [FriendFlop](http://fffff.at/friendflop) with [Lauren McCarthy](http://lauren-mccarthy.com/).
+* Created new work in collaboration with APAP Festival in Anyang and YCAM in Yamaguchi called "Sharing Faces", with complete documentation coming in 2014.
+* Attended KIKK Festival in Belgium to teach "Face as Interface".
+* First time giving a talk where I had to stop early due to sickness.
+* Designed a sculpture for Barneys New York, with their creative direction.
+
+![bny](http://farm8.staticflickr.com/7329/10584389283_5125738e5d_z.jpg)
+
+* First time opening my identity to the public, with [Going Public](http://fffff.at/going-public) lasting for one month, ending in a confusing identity mixup.
+* Created [us+](http://lauren-mccarthy.com/usplus/) with [Lauren McCarthy](http://lauren-mccarthy.com/).
+* Moved to San Francisco to start a residency at Autodesk for one month as part of the Instructables Artist in Residence program.
 
 # 2012
 
@@ -91,6 +138,7 @@
 * Spoke at [Push Conference](http://push-conference.com/2012/speaker.php#mcdonald) in Munich.
 * Received [Jury Selection](http://www.j-mediaarts.jp/dl/awards/jury/en/1.pdf) from Japan Media Arts Festival for "People Staring at&#8203; Computers".
 * Collaborated with Joanie Lemercier on "[Aether](http://www.flickr.com/photos/kylemcdonald/8229885780/in/photostream)" at University of Salford for the ScreenLab residency.
+* Became an uncle.
 * Made [Inbox 0](http://www.flickr.com/photos/kylemcdonald/8306685138/in/photostream) for the first time in years.
 
 ![inbox 0](http://farm9.staticflickr.com/8498/8306685138_4720c3e626.jpg)
