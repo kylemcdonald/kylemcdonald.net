@@ -46,6 +46,8 @@
 
 ![devcon](http://distilleryimage8.ak.instagram.com/ca8ac80affcb11e283b822000a9f124c_7.jpg)
 
+* Spoke at [This Happened](http://www.thishappened.org/events/hamburg-4) in Hamburg.
+* Spoke at [Retune Berlin](http://retune.de/2013/), lead a computer vision workshop, and delivered my first one-liner to bring down the house during a panel.
 * Taught "[Appropriating Interaction Technologies](www.creativeapplications.net/reviews/appropriating-interaction-technologies-social-hacking-at-itp/)" with [Lauren McCarthy](http://lauren-mccarthy.com/)
 
 ![ait](http://distilleryimage11.ak.instagram.com/c6f23cc468bb11e39ba112736d69badf_8.jpg)
