@@ -8,6 +8,24 @@
 <meta name="description" content="Kyle McDonald is a media artist who works with code, based in Brooklyn.">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="alternate" type="application/atom+xml" title="Kyle McDonald" href="http://friendfeed.com/kmcdonald?format=atom">
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script>
+// log all clicks
+$(function() {
+  $('a').on('click', function (e) {
+    e.preventDefault();
+    var a = this;
+    $.get(
+      "log.php",
+      {'href' : $(a)[0].href},
+      function(data) {
+        $(a).unbind('click');
+        $(a)[0].click();
+      }
+    );
+  })
+})
+</script>
 </head>
 
 <body>
@@ -16,7 +34,6 @@
 
 <div class="contact">
  <a href="http://twitter.com/kcimc" style="float:left"><img src="twitter.png" width="77" height="22"></a>
- <img src="email.png" width="243" height="22" style="float:right">
 </div>
 
 <br style="clear:both"/>
