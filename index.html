@@ -12,18 +12,18 @@
 <script>
 // log all clicks
 $(function() {
+  function log(url, cb) {
+    $.get('log.php', { 'href' : url }, cb);
+  }
   $('a').on('click', function (e) {
     e.preventDefault();
     var a = this;
-    $.get(
-      "log.php",
-      {'href' : $(a)[0].href},
-      function(data) {
-        $(a).unbind('click');
-        $(a)[0].click();
-      }
-    );
+    log($(a)[0].href, function() {
+      $(a).unbind('click');
+      $(a)[0].click();
+    })
   })
+  log('http://kylemcdonald.net/');
 })
 </script>
 </head>
