@@ -1,3 +1,61 @@
+# 2014
+
+* Spent a month in San Francisco with Lauren at the Pier 9 Autodesk / Instructables residency, creating a new project called "[Noodle](http://www.instructables.com/id/Noodle-a-crowdsourced-robot/)".
+* First time using a water jet cutter, Objet 3d printer, manual mill, and CNC mill.
+* Taught "Social Hacking" workshop at GAFFTA with Lauren.
+* Got health insurance.
+* Spoke at Super Flying Tokyo and gave a workshop introducing the technique behind "Light Leaks".
+
+![sft](http://scontent-a-lga.cdninstagram.com/hphotos-xfa1/t51.2885-15/917546_650277285035413_575929999_n.jpg)
+
+* Visited Amsterdam for FITC.
+* First time on a [surveillance panel](https://soundcloud.com/officialsxsw/hacking-surveillance-culture) with Heather Dewey-Hagborg and Brian House at SXSW.
+* First time at TED conference, creating "[Social Soul](https://vimeo.com/90547410)" with Lauren and MKG.
+
+![socialsoul](http://distilleryimage8.ak.instagram.com/2721735aada211e3b7b012675dad6710_8.jpg)
+
+* A few weeks in Belgrade developing "[Transcranial](www.creativeapplications.net/can_labs/transcranial/)" with Daito Manabe and Klaus Obermaier, premiered at Resonate Festival.
+
+![transcranial](https://farm6.staticflickr.com/5608/15643175271_f26b6be81a_k_d.jpg)
+
+* Installed projection mapped sculpture in an expensive home in the West Village, Manhattan, but can't say anything else.
+* First time really exploring Los Angeles, visiting the Cal Arts Digital Art Expo with Lauren.
+* First time giving a glitch workshop, at Click Festival in Elsinore, Denmark.
+* First time giving talk "The Manual: How to have a viral hit the easy way" at Click Festival.
+* Spent one month as the first media [artist in residence at Spotify](https://news.spotify.com/us/2014/08/21/serendipity/).
+
+![serendipity](https://spotifyblogcom.files.wordpress.com/2014/08/serendipity_bam_bam.png?w=800)
+
+* Attended eyeo Festival and gave the glitch workshop again.
+* First time trying to take a vacation, went with Lauren and friends to Hyannis, Martha's Vineyard, Nantucket, and Provincetown.
+
+![vacation](http://scontent-a-lga.cdninstagram.com/hphotos-xpf1/t51.2885-15/10549724_1427157687572525_546720726_n.jpg)
+
+* One week performance with Lauren as part of a series in process.
+* One month residency in Pittsburgh at the Studio for Creative Inquiry with Lauren.
+* Grew my hair out the longest it's ever been.
+* Wore a Basis watch for a month.
+* First time seeing The Velvet Teen live.
+* Designed the back cover for [+81 Vol.65](https://www.flickr.com/photos/kylemcdonald/15045801625/).
+* Showed "Untitled Digital Art" with Golan Levin and Chris Sugrue at Cinekid.
+
+![digitalart](http://photos-g.ak.instagram.com/hphotos-ak-xpa1/t51.2885-15/10655143_522761804535846_1278965206_n.jpg)
+
+* Installed "Light Leaks" at La Gaîté Lyrique in Paris, with new sound design from Rob Clouth.
+
+![lightleaks](http://photos-f.ak.instagram.com/hphotos-ak-xfp1/t51.2885-15/10693699_969420016418349_888128623_n.jpg)
+
+* Created the [music video](https://www.youtube.com/watch?v=3hrf0fy_HNA) for FaltyDL's "New Haven" with Blair Neal.
+
+![newhaven](https://farm4.staticflickr.com/3943/15341147799_d7e93e9744_b_d.jpg)
+
+* Showed my parents NYC for a week.
+* Taught "Appropriating Interaction Technologies" with Lauren at ITP again.
+* Gave a private talk to some folks in the government about media art, surveillance, but can't say anything else.
+* Spoke at [IDFA DocLab](http://www.doclab.org/).
+* Started learning to make cocktails.
+* Saved my roommate's room from a fire.
+
 # 2013
 
 * First time meeting someone through [online dating](http://socialturkers.com/).
