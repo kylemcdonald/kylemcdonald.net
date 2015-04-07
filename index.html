@@ -8,24 +8,6 @@
 <meta name="description" content="Kyle McDonald is a media artist who works with code, based in Brooklyn.">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="alternate" type="application/atom+xml" title="Kyle McDonald" href="http://friendfeed.com/kmcdonald?format=atom">
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script>
-// log all clicks
-$(function() {
-  function log(url, cb) {
-    $.get('log.php', { 'href' : url }, cb);
-  }
-  $('a').on('click', function (e) {
-    e.preventDefault();
-    var a = this;
-    log($(a)[0].href, function() {
-      $(a).unbind('click');
-      $(a)[0].click();
-    })
-  })
-  log('http://kylemcdonald.net/');
-})
-</script>
 </head>
 
 <body>
@@ -72,9 +54,14 @@ $(function() {
   An app that tracks, analyzes, and auto-manages your relationships. It uses GPS and a heart rate wristband to keep track of when you're coming and going, and subtle changes in heart rhythm determine your emotional state. This data is correlated with the people you interact with to determine who should be auto-scheduled into your life and who should be removed.
   </div>
  <ul>
+  <li><a href="http://hyperallergic.com/177726/new-app-lets-users-outsource-their-relationships/">on hyperallergic</a></li>
   <li><a href="http://www.engadget.com/2015/01/20/peoplekeeper-app-launch">on edgadget</a></li>
   <li><a href="http://techcrunch.com/2015/01/19/pplkpr/">on techcrunch</a></li>
   <li><a href="http://www.creativeapplications.net/i-os/pplkpr-app-to-analyze-manage-and-optimize-your-social-life/">on can</a></li>
+  <li><a href="http://animalnewyork.com/2015/death-tinder-artists-build-dating-app-monitors-irl-interaction-matches/">on animal</a></li>
+  <li><a href="http://www.wired.com/2015/01/hard-time-human-app-manages-friendships/">on wired</a></li>
+  <li><a href="http://www.fastcodesign.com/3041326/this-app-wants-to-control-your-social-life">on fastco</a></li>
+  <li><a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/pplkpr-if-real-friendship-makes-your-heart-beat-faster-this-absurdlynamed-app-isnt-for-you-10009467.html">on independent</a></li>
  </ul>
 </div>
 
