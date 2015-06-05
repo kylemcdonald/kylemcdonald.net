@@ -1,10 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400);
+
 body {
- font-family: "Trebuchet MS", sans-serif;
+ font-family: "Source Sans Pro", sans-serif;
  font-size: 11px;
- background-image:url('halftone.gif');
- background-repeat: repeat-x;
- background-color: #000;
- color: #fff;
+ background-color: black;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+ color: white;
 }
 
 /* my name */
@@ -12,9 +14,12 @@ h1 {
  display: none;
 }
 
-.contact img {
- margin: 4px;
- border: 0;
+#twitter {
+	float:left;
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+	margin: 12px;
 }
 
 /* section titles */
@@ -24,7 +29,7 @@ h2 {
  left: -6px;
  top: -38px;
  background-color: #ec008c;
- color: #fff;
+ color: white;
  padding: 4px;
 }
 
@@ -44,25 +49,28 @@ h3 {
  clear: none;
  float: left;
  width: 256px;
- border: 1px dotted;
  margin: 4px;
  padding: 8px;
- background-color: #fff;
- background-image: url('widelines.gif');
- color: #000;
+ background-color: #444;
+ color: white;
 }
 
 .project {
- height: 312px;
+ height: 324px;
 }
 
 .project img {
+ /*
  border: 1px #888 solid;
+ box-sizing:border-box;
+ -moz-box-sizing:border-box;
+ -webkit-box-sizing:border-box;
+ */
 }
 
 .cell div {
  padding: 4px;
- background-color: #fff;
+ background-color: #666;
 }
 
 .description {
@@ -73,7 +81,7 @@ h3 {
 
 .cell ul {
  padding: 4px;
- background-color: #fff;
+ background-color: #666;
  margin: 0;
 }
 
