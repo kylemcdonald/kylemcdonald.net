@@ -2,58 +2,37 @@
 <head>
 <meta charset="UTF-8">
 <title>Memory</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'></link>
 <style>
 #column {
-    font-family: 'Arvo', serif;
+    font-family: 'Arvo', sans-serif;
     font-size: 14px;
     width: 35em;
-    margin: 2em auto;
-    text-indent: 1em;
-    line-height: 1.5em;
-}
-p {
-    margin: .6em;
-    text-align: justify;
-}
-hr {
-    border: 0;
-    width: 80%;
-    margin: 2em auto;
-    color: #ccc;
-    background-color: #ccc;
-    height: 1px;
+    max-width: 100%;
+    margin: 1em auto 2em;
 }
 h1 {
     text-align: center;
     font-size: 96px;
-}
-h2 {
-    font-size: 24px;
-}
-h1, h2 {
-    text-indent: 0;
-    font-weight: 400;
-}
-h3 {
-    font-size: 18px;
-    text-indent: 0;
-    font-weight: 400;
-    text-align: center;
-}
-ul {
     margin: 0;
     padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
-ul li {
-    font-family: 'Arvo', sans-serif;
+ul {
+    margin: 1em 0;
+    padding: 0;
+}
+li {
     list-style-type: none;
+    text-indent: 0.5em;
+    line-height: 1.5em;
     background: #f0f0f0;
+    padding: 1em;
+    margin: 1em 0;
     border-left: 2px solid #ccc;
-    margin: .4em;
-    margin-right: 0;
-    padding: .4em;
-    padding-right: 1.6em;
+    padding-left: -2px;
 }
 #column a:link {
     color: #00abec;
@@ -68,20 +47,15 @@ ul li {
 }
 .badge {
     position:relative;
-    margin: 0px 2px -3px 2px;
-    padding: 0px;
-    top: 3px;
+    margin: 0px 2px -12px 2px;
+    top: -5px;
     width: 24px;
     height: 24px;
 }
 img {
-    max-width:500px;
+    max-width:100%;
 }
 </style>
-<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-<script type="text/javascript" src="js/prototype.js"></script>
-<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
-<script type="text/javascript" src="js/lightbox.js"></script>
 </head>
 <body>
 <div id="column">
