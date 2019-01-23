@@ -14,8 +14,7 @@ h1 {
  display: none;
 }
 
-#twitter {
-	float:left;
+.contact {
 	text-decoration: none;
 	color: white;
 	font-size: 24px;
