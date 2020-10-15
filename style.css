@@ -2,16 +2,15 @@
 
 body {
  font-family: "Source Sans Pro", sans-serif;
- font-size: 11px;
+ font-size: 14px;
  background-color: black;
- -webkit-font-smoothing: antialiased;
- -moz-osx-font-smoothing: grayscale;
  color: white;
 }
 
-/* my name */
+/* my name, for SEO */
 h1 {
  display: none;
+ font-size: 32px;
 }
 
 .contact {
@@ -25,8 +24,8 @@ h1 {
 h2 {
  display: inline;
  position:absolute;
- left: -6px;
- top: -38px;
+ left: -4px;
+ top: -45px;
  background-color: #ec008c;
  color: white;
  padding: 4px;
@@ -47,7 +46,7 @@ h3 {
  position: relative;
  clear: none;
  float: left;
- width: 256px;
+ width: 320px;
  margin: 4px;
  padding: 8px;
  background-color: #444;
@@ -55,7 +54,7 @@ h3 {
 }
 
 .project {
- height: 324px;
+ height: 405px;
 }
 
 .project img {
@@ -72,6 +71,10 @@ h3 {
  background-color: #666;
 }
 
+.cell a img {
+  width: 100%;
+}
+
 .description {
  max-height: 10em;
  overflow: auto;
@@ -80,7 +83,7 @@ h3 {
 
 .cell ul {
  padding: 4px;
- background-color: #666;
+ /* background-color: #666; */
  margin: 0;
 }
 
