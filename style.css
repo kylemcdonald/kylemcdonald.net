@@ -76,7 +76,7 @@ h3 {
 }
 
 .description {
- max-height: 10em;
+ max-height: 12em;
  overflow: auto;
  margin-bottom: 4px
 }
