@@ -2,6 +2,36 @@
 
 ---
 
+In 2011 I published a series of photos taken with the laptops in two NYC Apple Stores, as part of my ongoing exploration of surveillance and face analysis. In response, Apple contacted the Secret Service and they raided my apartment. After censoring the work online, Apple did not pursue a civil case against me. And after a few months long investigation by the Secret Service, Assistant United States Attorney Judith Philips declined to prosecute me.
+
+Ten years later, this work is still an important reference point for my art practice. I continue to [work with faces](https://kcimc.medium.com/working-with-faces-e63a86391a93) and to reflect on privacy and surveillance in a new era dominated by machine learning.
+
+In 2016 I filed a FOIA request to learn more about what happened behind the scenes in 2011. I received a response over a year later. The [full FOIA response](https://archive.org/details/psac-foia) offers that inside look: scrawled notes on the phone with Apple, descriptions of a Special Agent scrolling through my social media, justifications for a search warrant, a detailed closing report. But it is mostly boring minutiae: multiple pages of paperwork for every piece of hardware that was seized, separate lines documenting every time evidence was withdrawn and returned to the locker.
+
+<div class="pdf_wrapper">
+<iframe src="https://drive.google.com/file/d/18Jkk-ZXtGxDfah8WleP4HWY3kSJWCFg6/preview" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>></iframe>
+</div>
+
+* The FOIA response by the Secret Service, available on the [Internet Archive](https://archive.org/details/psac-foia) and [Google Drive](https://drive.google.com/file/d/1YkN5gZ_Ji2Bf69EjSgNVyHOvQHn_qKG8/view?usp=sharing).
+
+Reading this story again ten years later, I see a lot that has changed in me.
+
+In 2011 I was still under the false belief that all varieties of law enforcement are designed to protect the public from harm. It was a clear sign of my privilege, and showed my naive faith in the system. How many other people have pointed the Secret Service to incriminating evidence on their own laptop, and literally given them passwords in an effort to help? I thought we were all on the same side. In some ways this is a story about how I began to learn that the law is there to protect some specific people (and companies), and not the general public as I imagined.
+
+My own blindness and immaturity comes through in some other funny ways. The fact that I never once thought to pick a pseudonym and reply to all the comments, just for fun, shows how deep I was into the idea of having a unified online persona. I didn't really address this until [Going Public](http://fffff.at/going-public/) in 2013, where I let anyone tweet using my account. At the end of that project, I nearly had a breakdown as my online persona fractured and dissolved.
+
+It's funny to look back on some of the more superficial ideas in this story. Especially the parts where I chastise, "look, we've gotten so wrapped up in all these computers we have forgotten about the real people around us". Like one of those cafe signs that says "we don't have wifi, talk to each other, pretend it's 1995". I think this attitude was popular in the late 2000s and early 2010s, and now I can see I was just parroting it.
+
+Reading today, I briefly remember what it felt like to think about surveillance before Snowden. Before 2013, we all suspected massive government spying programs, but the majority of the public who were not historically surveilled and marginalized had very little evidence. It's hard to imagine this project making sense today, knowing that we are always being watched.
+
+I'm not sure I would make this piece today, anyway. I'm increasingly critical of artwork that attempts to engage with the theme of surveillance by replicating systems of surveillance. How fruitful can a conversation be about consent and privacy, when an artist does not seek their subject's consent? I still have a drive to create work that is unsettling and challenging, and I think there are ways to do this that are more targeted.
+
+This story was first published by Wired in 2012, [When Art, Apple and the Secret Service Collide: 'People Staring at Computers'](https://www.wired.com/2012/07/people-staring-at-computers/). In my original text I wrote that the Secret Service "borrowed" my equipment. Wired insisted I edit it to "seized". I have left it unedited.
+
+### [Kyle McDonald](http://kylemcdonald.net/) June 7, 2021
+
+---
+
 ![Steve Jobs, staring at the first version of Photo Booth. All watercolors courtesy of David Pierce](large/steve.jpg)
 
 * Steve Jobs, staring at the [first version of Photo Booth](https://www.facebook.com/photo.php?fbid=10150344003694357&set=a.10150344003354357.371772.500729356&type=3&l=c6edf34df0&theater). All watercolors courtesy of [David Pierce](http://davidpierce.org/).
@@ -122,13 +152,13 @@ Then something amazing happened. I didn't need to use my imagination to guess wh
 
 ## This project had to end with an exhibition.
 
-I was originally planning on releasing a short montage of all the faces, but after talking with some friends I realized you get the best impression for peoples' expressions when you can see the individual photos. So I decided to do go for a dual exhibition: online, and in the Apple Stores. I wrote a new app that, instead of sending photos to the server, played back previously captured photos as a slideshow.
+I was originally planning on releasing a short montage of all the faces, but after talking with some friends I realized you get the best impression for peoples' expressions when you can see the individual photos. So I decided to go for a dual exhibition: online, and in the Apple Stores. I wrote a new app that, instead of sending photos to the server, played back previously captured photos as a slideshow.
 
 On July 3rd, I installed this exhibition app on all the free computers at the 14th Street Apple Store. It took almost an hour, because computers kept opening up. The slideshow code was set to be remotely triggered using a special webpage, so I could have every screen in the store switch to showing the slideshow at the same moment. When the slideshow first opened, it would capture an image of whoever was standing in front of the computer, and show them first before fading into the previously captured photos.
 
 I didn't want to frustrate anyone who was trying to get something done. People do everything in the Apple Store, from recording music videos to writing autobiographies. Sometimes they're even buying computers. So if they wanted to close the app, they could always press the usual escape keys.
 
-After I had prepared all the machines, I met up with two friends who were helping with video documentation. We got situated in the store, double checked with an employee that it was ok to shoot video, and I triggered the slideshow by visiting a webpage from my iPod. I struck up conversation with a nice guy who was using one of the machines, and asked if I could record some video over his shoulder while he was using the computer. He obliged, I started rolling, and within a few seconds the slideshow started, showing his face first.
+After I had prepared all the machines, I met up with two friends who were helping with video documentation. We got situated in the store, double checked with an employee that it was ok to shoot video, and I triggered the slideshow by visiting a webpage from my iPod. I struck up a conversation with a nice guy who was using one of the machines, and asked if I could record some video over his shoulder while he was using the computer. He obliged, I started rolling, and within a few seconds the slideshow started, showing his face first.
 
 He was confused. Everyone in the store using a computer was confused. A few of the computers that went to the screensaver didn't show the app, but most of the machines were live, showing a one-minute speed-exhibition. No one said anything to their neighbors. No one looked around to see if it was just them, or if everyone was having this "problem". A few people took their hands off the keyboard and tried to figure out what was going on, but most instinctively hit "esc" to get back to what they were doing.
 
@@ -138,7 +168,9 @@ For a second time, I was completely stunned. Why didn't anyone talk to each othe
 
 We decided to get some more video from the SoHo store. Afterwards, we went out for drinks, I copied their footage, and we parted ways. That night and the following day, I posted a selection to Tumblr for the online exhibition, from more than a thousand photos; then edited and posted the footage before going to bed. That was the 4th of July. At noon on the 5th I announced the work on Twitter, with a link to the [F.A.T. blog post](http://fffff.at/people-staring-at-computers/).
 
----
+<div class="video_wrapper">
+<iframe src="https://player.vimeo.com/video/25958231?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## "Yesterday it was at 150k views."
 
@@ -186,7 +218,7 @@ The agent who had been taking notes chimed in: "I suppose so, if you just open u
 
 "And how about your phone?" I pulled out my ancient Nokia. They took a quick look and decided they weren't interested in it.
 
-We walked to the living room, and an agent pointed at old Thinkpad on the floor, sitting beneath a fan. "What's that?"
+We walked to the living room, and an agent pointed at the old Thinkpad on the floor, sitting beneath a fan. "What's that?"
 
 "Oh, I don't use that one much anymore." This didn't explain the location. "And it was really hot last night so I grabbed the closest thing to prop the fan at an angle." Again, completely true. It looked way more suspicious than it actually was, so they took the Thinkpad too. I was starting to feel a little vulnerable, and had to ask, "What exactly can you take?"
 
@@ -246,7 +278,7 @@ I responded to emails about the project for a few hours, but I quickly realized 
 
 I was working off my girlfriend's old Thinkpad, but if it was going to be months until I got my computer back, I would need to buy a decent replacement. I decided to go to the Apple Store and see what was in stock. Sitting on a couch answering emails was not a good way to burn off adrenaline.
 
-I took the A train to 14th Street and hoped they didn't recognize me. When I walked in, there were two employees talking to each other that turned towards me to see if I need help. I was certain one had a smirk on his face. He walked away, and I talked to the other. They didn't have the right model in stock.
+I took the A train to 14th Street and hoped they didn't recognize me. When I walked in, there were two employees talking to each other that turned towards me to see if I needed help. I was certain one had a smirk on his face. He walked away, and I talked to the other. They didn't have the right model in stock.
 
 I went for a walk. Sitting in a park by the Hudson, I got a call from the EFF. They had some immediate advice: don't talk to anyone. No interviews, no replies on Twitter, no comments on blogs. They weren't sure if they could take the case, but they would try to find someone for me.
 
@@ -256,11 +288,11 @@ Home again, I checked my email. There were a few messages from my best friends, 
 
 ## Then I saw the comments.
 
-Hundreds and hundreds of comments, on dozens of major blogs. I'm no stranger to publicity, but this was on a completely different scale. Everyone had an opinion and wanted to argue with each other. Yet I had to remain completely silent. I spoke only with my parents, for a few minutes. Once I saw it on the [BBC](http://www.bbc.co.uk/news/technology-14080438), I knew if I didn't tell them first, my grandmother would. My mom insisted that I call from a pay phone. She also warned me against buying a new computer from Apple, but I'd already ordered one online. She tends more towards conspiracy theories than I do.
+Hundreds and hundreds of comments, on dozens of major blogs. I'm no stranger to publicity, but this was on a completely different scale. Everyone had an opinion and wanted to argue with each other. Yet I had to remain completely silent. I spoke only with my parents for a few minutes. Once I saw it on the [BBC](http://www.bbc.co.uk/news/technology-14080438), I knew if I didn't tell them first, my grandmother would. My mom insisted that I call from a pay phone. She also warned me against buying a new computer from Apple, but I'd already ordered one online. She tends more towards conspiracy theories than I do.
 
 Online, some comments were favorable, especially the ones posted the day before the visit. They dealt with the issues I was originally trying to tackle:
 
-* Interesting how he as able to capture a truly expressionless face. It made me think about how too much computer time may make us retract from social interactions. Weird .
+* Interesting how he was able to capture a truly expressionless face. It made me think about how too much computer time may make us retract from social interactions. Weird .
 
 * Facial expressions are partially reflexive but partially social. It's not a surprise that expressions get bland when there is no one around to non-verbally communicate with.
 
@@ -366,7 +398,7 @@ But this is not how things are set up.
 
 Actually, the last email I sent before the EFF recommended that I stay quiet was directly to Steve Jobs, mentioning that the Secret Service stopped by, and asking if he wanted me to delete the project. I wasn't really expecting a response, but I heard that sometimes he responds when an intern sees an interesting email.
 
-Instead, the EFF found me a lawyer nearby. I forwarded the lawyer some information about the Apple representative, and they spoke. My lawyer asked for the representative to make his request in writing, and a few days later he obliged.
+Instead, the EFF found a lawyer for me nearby. I forwarded the lawyer some information about the Apple representative, and they spoke. My lawyer asked for the representative to make his request in writing, and a few days later he obliged.
 
 Except the request wasn't sent to us, it was sent directly to the service providers. On the 14th, I got a message from Tumblr:
 
@@ -420,11 +452,11 @@ Since I was still out of the country, my girlfriend offered to pick up the hardw
 
 ## "By any chance, have you heard my name before?"
 
-After returning from Japan, I bought a new computer case from the 14th Street store. When you buy something, they ask for your name and email address so they can send a receipt. Just before leaving, curiosity got the best of me and I asked the employee if he knew who I was.
+After returning from Japan, I bought a new computer case from the 14th Street store. When you buy something, they ask for your name and email address so they can send a receipt. Just before leaving, curiosity got the best of me and I asked the employee if he'd heard of me.
 
-"No, I don't."
+"No, I haven't."
 
-"Great, thanks!" Question answered, I started walking away. I was happy to hear that I wasn't permanently banned from the Apple store.
+"Great, thanks!" Question answered, I started walking away. I was happy to hear that I wasn't permanently banned from the Apple Store.
 
 "But, wait, why should I know who you are?" I wasn't sure what to say. He had my email address, so I told him to check out my website, and I continued out the door.
 
@@ -440,7 +472,7 @@ But there was one point that really stuck with me. He told me that when you star
 
 ## Six months later, I still get nervous when I hear an unexpected knock.
 
-My old doorbell (I've since moved) had a very specific ring, as well. I think I formed some kind of instantaneous Pavlovian response: whenever I hear a bell with the same timbre, I get a bit queasy. Now that I can talk about the experience, writing this article has helped a little. But remembering certain parts of the story, like re-reading the comments or going through old emails, is not easy.
+My old doorbell (I've since moved) had a very specific ring. I think I formed some kind of instantaneous Pavlovian response: whenever I hear a bell with the same sound, I get a bit queasy. Now that I can talk about the experience, writing this article has helped a little. But remembering certain parts of the story, like re-reading the comments or going through old emails, is not easy.
 
 This piece has been one of the most successful and difficult projects I've ever worked on. But very little of its success has to do with themes I was actively pursuing. Because the work evolved out of other projects dealing with privacy and surveillance, I took those issues as given rather than addressing them directly. I knew people would be uncomfortable seeing the photos, but I personally had become so desensitized to surveillance aesthetics that I saw through those uncomfortable themes into a deeper issue.
 
@@ -464,7 +496,7 @@ And the success of "People Staring at Computers" is based on condemnation  rathe
 
 I think Duchamp understood the possibilities of condemnation as an alternative to mutual concession. He addresses this in his short essay, "[The Creative Act](http://www.iaaa.nl/cursusAA&AI/duchamp.html)". He says once an artist gives their work to the spectator, it's up to the spectator to make a decision about that work.
 
-Sometimes it's up to a single spectator to decide whether something is art or not, whether it moves them, makes them think, or has any other impact. Maybe it's the customs agent, or the visitors to a gallery or museum. Over time, these kind of cultural decisions are made by people in power: judges and other legal entities, gallery owners, curators, media theorists, collectors. With "People Staring at Computers," I saw something new: a massive audience engaged in a collective decision-making about the culture they wanted to adopt, in realtime, via comment threads strewn across blog posts and news articles
+Sometimes it's up to a single spectator to decide whether something is art or not, whether it moves them, makes them think, or has any other impact. Maybe it's the customs agent, or the visitors to a gallery or museum. Over time, these kinds of cultural decisions are made by people in power: judges and other legal entities, gallery owners, curators, media theorists, collectors. With "People Staring at Computers," I saw something new: a massive audience engaged in a collective decision-making about the culture they wanted to adopt, in realtime, via comment threads strewn across blog posts and news articles
 
 In the essay, Duchamp also explains how artists are never aware of all the ideas and forces affecting us. If I was lost in "keytweeter" instead of the empty expressions from the webcam timelapse, I might have tried keylogging instead. I suspect that the Secret Service got involved because they expected this. Maybe it's common practice to use public machines for identity theft? Maybe they saw the photos, and thought I was pairing the images with passwords and credit card numbers? If my behavior was less ambiguously non-criminal, things could have turned out very different.
 
@@ -476,4 +508,4 @@ In a way it became Apple's work. But most importantly, it became the commenters'
 
 I feel very grateful that I was able to spark that conversation, and I'm relieved that I don't have to further defend the work. I'm very happy to let the commenters do that.
 
-### [Kyle McDonald](http://kylemcdonald.net/) on ${lastupdated}
+### [Kyle McDonald](http://kylemcdonald.net/) June 12, 2012

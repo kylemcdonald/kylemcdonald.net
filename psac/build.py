@@ -9,6 +9,5 @@ outline = open('outline.html').read()
 
 now = datetime.datetime.now()
 with open('index.html', 'w') as f:
-  content = content.replace('${lastupdated}', now.strftime('%A, %B %d, %Y'))
   outline = outline.replace('${content}', content)
   f.write(outline)

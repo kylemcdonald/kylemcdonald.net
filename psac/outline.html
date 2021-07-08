@@ -4,22 +4,37 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href='//fonts.googleapis.com/css?family=Alice' rel='stylesheet' type='text/css'></link>
 <link href='//fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'></link>
+
+<meta property="og:title" content="People Staring At Computers">
+<meta name="description" content="Apple uses the Secret Service to raid the apartment of an artist exploring surveillance."/>
+<meta property="og:description" content="Apple uses the Secret Service to raid the apartment of an artist exploring surveillance.">
+<meta property="og:url" content="https://kylemcdonald.net/psac">
+<meta property="og:image" content="https://kylemcdonald.net/psac/large/steve.jpg">
+<meta name="twitter:card" content="summary_large_image">
+
 <style>
+html,body {
+    margin: 0;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
 #column {
     font-family: 'Alice', serif;
-    font-size: 14px;
     width: 35em;
+    margin: auto;
     max-width: 100%;
-    margin: 2em auto;
     text-indent: 1em;
     line-height: 1.5em;
+    font-size: 1.1em;
+}
+#column > * {
+    margin: 0.6em;
 }
 #column img {
     width: 100%;
     display: block;
 }
 p {
-    margin: .6em;
     text-align: justify;
 }
 hr {
@@ -32,20 +47,21 @@ hr {
 }
 h1 {
     text-align: center;
-    font-size: 36px;
+    font-size: 2.2em;
     line-height: 1.0em;
 }
 h2 {
-    font-size: 18px;
+    font-size: 1.2em;
 }
 h1, h2 {
+    margin: 1em;
     text-indent: 0;
     font-weight: 400;
 }
 h3 {
-    font-size: 16px;
+    font-size: 1.2em;
     text-indent: 0;
-    font-weight: 400;
+    font-weight: 600;
     text-align: center;
 }
 ul {
@@ -62,10 +78,9 @@ blockquote, ul li {
     font-family: 'Arvo', sans-serif;
     background: #f0f0f0;
     border-left: 2px solid #ccc;
-    margin: .6em;
-    margin-right: 0;
+    margin: .6em 0;
     padding: .6em;
-    padding-right: 1.6em;
+    font-size: 0.9em;
 }
 #column a:link {
     color: #00abec;
@@ -78,11 +93,22 @@ blockquote, ul li {
 #column a:visited {
     color: #ec008c;
 }
+.video_wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+}
+.pdf_wrapper {
+    position: relative;
+    padding-bottom: 124%; /* 1:1 */ 
+}
+iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 </style>
-<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-<script type="text/javascript" src="js/prototype.js"></script>
-<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
-<script type="text/javascript" src="js/lightbox.js"></script>
 </head>
 <body>
 <div id="column">
