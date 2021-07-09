@@ -6,13 +6,13 @@ In 2011 I published a series of photos taken with the laptops in two New York Ci
 
 Ten years later, this work is still an important reference point for my art practice. I continue to [work with faces](https://kcimc.medium.com/working-with-faces-e63a86391a93) and to reflect on privacy and surveillance in a new era dominated by machine learning.
 
-In 2016 I filed a Freedom of Information Act (FOIA) request to learn more about what happened behind the scenes in 2011. I received a response over a year later. The [full FOIA response](https://archive.org/details/psac-foia) offers an inside look: scrawled notes on the phone with Apple, descriptions of a Special Agent scrolling through my social media, justifications for a search warrant, a detailed closing report. But it is mostly boring minutiae: multiple pages of paperwork for every piece of hardware that was seized, separate lines documenting every time evidence was withdrawn and returned to the locker.
+In 2016 I filed a Freedom of Information Act (FOIA) request to learn more about what happened behind the scenes in 2011. I received a response over a year later. The [full FOIA response](https://drive.google.com/file/d/1YkN5gZ_Ji2Bf69EjSgNVyHOvQHn_qKG8/view?usp=sharing) offers an inside look: scrawled notes on the phone with Apple, descriptions of a Special Agent scrolling through my social media, justifications for a search warrant, a detailed closing report. But it is mostly boring minutiae: multiple pages of paperwork for every piece of hardware that was seized, separate lines documenting every time evidence was withdrawn and returned to the locker.
 
 <div class="pdf_wrapper">
 <iframe src="https://drive.google.com/file/d/18Jkk-ZXtGxDfah8WleP4HWY3kSJWCFg6/preview" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>></iframe>
 </div>
 
-* The FOIA response by the Secret Service, available on the [Internet Archive](https://archive.org/details/psac-foia) and [Google Drive](https://drive.google.com/file/d/1YkN5gZ_Ji2Bf69EjSgNVyHOvQHn_qKG8/view?usp=sharing).
+* The FOIA response by the Secret Service, available via [Google Drive](https://drive.google.com/file/d/1YkN5gZ_Ji2Bf69EjSgNVyHOvQHn_qKG8/view?usp=sharing).
 
 Reading this story again ten years later, I see a lot that has changed in me.
 
