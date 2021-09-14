@@ -78,7 +78,10 @@ h3 {
 .description {
  max-height: 12em;
  overflow: auto;
- margin-bottom: 4px
+ margin-bottom: 4px;
+ -webkit-hyphens: auto;
+ -ms-hyphens: auto;
+ hyphens: auto;
 }
 
 .cell ul {
