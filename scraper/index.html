@@ -1,0 +1,115 @@
+<!--
+Center on specific region.
+Look at adjacent photos +/- a few.
+Report server speed statistics, in terms of images/second and kbps.
+Image size statistics in resolution and bytes.
+Automatically discover where holes are?
+-->
+<title>Scraper Helper</title>
+
+<style>
+* {
+	font-family: sans-serif;
+	font-size: 1em;
+}
+#results > div {
+	float: left;
+	margin: 0.1em;
+	width: 10em;
+	height: 10em;
+}
+img {
+	width:100%;
+	height: 100%;
+	object-fit: cover;
+}
+a {
+	color: white;
+	text-decoration: none;
+	background: black;
+	opacity: 0.5;
+	float: left;
+	position: absolute;
+	margin: 0.2em;
+}
+p {
+	margin: 0.1em;
+}
+</style>
+
+<div>
+	<div>
+		<p>Use [0-100] for a range. Use {e.slice(0,3)} for the first three characters.</p>
+		<input id="url" size=100 value="http://www.doc.state.co.us/offender_search/offender_photos/PRODUCTION/{e.slice(0,3)}/[0-177980].jpg"></input>
+		<input id="n" size=3 value="5"></input>
+		<button onclick="random()">Random</button>
+		<button onclick="uniform()">Uniform</button>
+		<button onclick="clearResults()">Clear</button>
+	</div>
+	<input id="zeropad" type="checkbox" checked>Use zero-padding</input>
+</div>
+
+<div id="results">
+</div>
+
+<script>
+var url, min, max, n;
+function add(index) {
+	var div = document.createElement('div');
+	var img = document.createElement('img');
+	var link = document.createElement('a');
+
+	var indexString = String(index);
+	if(document.getElementById('zeropad').checked) {
+		var padLength = String(max).length;
+		indexString = indexString.padStart(padLength, '0');
+	}
+	var fullUrl = url.replace(/\[.+\]/, indexString);
+
+	var hasCode = fullUrl.match(/\{(.+?)\}/);
+	if(hasCode) {
+		var i = index;
+		var e = indexString;
+		fullUrl = fullUrl.replace(/\{.+?\}/, eval(hasCode[1]));
+	}
+
+	img.src = fullUrl;
+	link.innerText = indexString;
+	link.href = fullUrl;
+
+	div.appendChild(link);
+	div.appendChild(img);
+	document.getElementById('results').appendChild(div);
+}
+function update() {
+	url = document.getElementById('url').value;
+	var range = url.match(/\[(.+)\]/)[1].split('-');
+	min = Number(range[0]);
+	max = Number(range[1]);
+	n = Number(document.getElementById('n').value);
+}
+function random() {
+	update();
+	var indices = [];
+	for(var i = 0; i < n; i++) {
+		var index = Math.random() * (max - min) + min;
+		index |= 0;
+		indices.push(index);
+	}
+	indices.sort((a, b) => a - b); // lol
+	for(var i = 0; i < n; i++) {
+		add(indices[i]);
+	}
+}
+function uniform() {
+	update();
+	for(var i = 0; i < n; i++) {
+		var index = (i/(n-1)) * (max - min) + min;
+		index |= 0;
+		add(index);
+	}
+}
+function clearResults() {
+	document.getElementById('results').innerHTML = '';
+}
+</script>
