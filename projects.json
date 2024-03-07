@@ -1,0 +1,2147 @@
+{
+  "works": [
+    {
+      "name": "Unlearning Language",
+      "year": "2022",
+      "description": "An interactive installation and performance that uses machine learning to provoke us to find new understandings of language, undetectable to algorithms.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://lauren-mccarthy.com/Unlearning-Language"
+        },
+        {
+          "text": "performance",
+          "url": "https://www.ycam.jp/events/2022/unlearning-language/"
+        },
+        {
+          "text": "video",
+          "url": "https://vimeo.com/805350719"
+        }
+      ],
+      "image": "unlearning-language.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com/"
+        },
+        {
+          "name": "Yamaguchi Center for Arts and Media",
+          "url": "https://www.ycam.jp/"
+        }
+      ]
+    },
+    {
+      "name": "Amends",
+      "year": "2022",
+      "description": "A series of sculptures designed to mitigate emissions from Ethereum NFT marketplaces. Amends will go on sale when Ethereum transitions away from proof-of-work. The work is priced to fund complete carbon mitigation, supplied by three partners\u2014each with different approaches to carbon dioxide removal and emissions prevention.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://amends.eco"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/amends"
+        },
+        {
+          "text": "video",
+          "url": "https://videos.theconference.se/kyle-mcdonald-get-together-with"
+        },
+        {
+          "text": "Gray Area",
+          "url": "https://grayarea.org/press/kyle-mcdonald-amends-gray-area-releases-three-sculptures-by-kyle-mcdonald-on-foundation-opensea-and-rarible-in-project-that-aims-to-mitigate-nft-marketplace-emissions-for-24m/"
+        },
+        {
+          "text": "LACMA unframed",
+          "url": "https://unframed.lacma.org/2022/07/05/nfts-and-museum-blockchain-carbon-emissions-and-mitigation"
+        },
+        {
+          "text": "investor junkie",
+          "url": "https://moneywise.com/investing/cryptocurrency/exploring-the-uncertain-future-of-nft-sustainability"
+        },
+        {
+          "text": "outland",
+          "url": "https://outland.art/kyle-mcdonald-amends/"
+        },
+        {
+          "text": "monopol",
+          "url": "https://www.monopol-magazin.de/mit-feuer-gegen-feuer-kuenstler-kyle-mcdonald-will-nft-emissionen-mit-nfts-kompensieren"
+        },
+        {
+          "text": "interdependence",
+          "url": "https://interdependence.fm/episodes/ethereum-energy-numbers-are-in-moral-calculations-and-web-3-critiques-with-kyle-mcdonald"
+        },
+        {
+          "text": "digitally rare",
+          "url": "https://podcasters.spotify.com/pod/show/digitallyrare/episodes/Emitting-and-Admitting--Amends-for-ETH-e1ki5p9"
+        }
+      ],
+      "image": "amends.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Crypto Therapy",
+      "year": "2022",
+      "description": "A group therapy session for people working through their feelings around crypto. We ask questions about our confusion, excitement, frustration, financial anxiety, or even changing friendships due to the complex phenomenon of cryptocurrencies and NFTs.",
+      "links": [
+        {
+          "text": "event",
+          "url": "https://strp.nl/program/scenario-17"
+        },
+        {
+          "text": "one-act play",
+          "url": "https://medium.com/@strp_eindhoven/crypto-therapy-for-mixed-crypto-feelings-7e69ed70165a"
+        },
+        {
+          "text": "writeup",
+          "url": "https://medium.com/@strp_eindhoven/feeling-all-the-feels-while-talking-all-things-crypto-4fef3ca3f33e"
+        },
+        {
+          "text": "presentation",
+          "url": "https://vimeo.com/685500037"
+        }
+      ],
+      "image": "crypto-therapy.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Ethereum Emissions",
+      "year": "2021",
+      "description": "A bottom-up estimate of the energy use and emissions of the Ethereum blockchain. Experiments in cultural intervention in the form of a technical research articles and realtime dashboards. What are the affordances and limitations of research alone? A response to a year of hand-wringing and mud-slinging in the digital arts, asking: how bad is it, really?",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://kylemcdonald.github.io/ethereum-emissions"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/ethereum-emissions/"
+        },
+        {
+          "text": "podcast interview",
+          "url": "https://interdependence.fm/episodes/ethereum-energy-numbers-are-in-moral-calculations-and-web-3-critiques-with-kyle-mcdonald"
+        }
+      ],
+      "image": "ethereum-emissions.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Siren",
+      "year": "2021",
+      "description": "Audiovisual installation exploring the songs of three humpback whales, recorded by Annie Lewandowski and pioneering bioacoustician Katy Payne. Lighting design backed by ML as an aid for deeper listening. Projected on derelict fishing gear, recovered from areas where they represent the primary threat to cetaceans.",
+      "links": [
+        {
+          "text": "video at invisible dog",
+          "url": "https://www.youtube.com/watch?v=hWAzRpmhvhc"
+        },
+        {
+          "text": "video at martha's vineyard",
+          "url": "https://www.youtube.com/watch?v=-SpLUaTxShg"
+        },
+        {
+          "text": "video at cornell",
+          "url": "https://www.youtube.com/watch?v=xk0RS7N4JhY"
+        },
+        {
+          "text": "photos",
+          "url": "https://www.flickr.com/photos/kylemcdonald/albums/72157719705816448"
+        }
+      ],
+      "image": "siren.jpg",
+      "collaborators": [
+        {
+          "name": "Annie Lewandowski",
+          "url": "http://annielewandowski.com/"
+        }
+      ]
+    },
+    {
+      "name": "Facework",
+      "year": "2020",
+      "description": "Game that imagines a world where face analysis is key to the latest gig economy app. As a Faceworker, the player is given an opportunity to interrogate in realtime how computer vision and machine learning tools work \u2014 to playfully grow an intuition for what it means to see like a machine, and to understand how machines can fail. Created with support from Mozilla Foundation.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://facework.app"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/facework"
+        },
+        {
+          "text": "writeup",
+          "url": "https://kcimc.medium.com/working-with-faces-e63a86391a93"
+        },
+        {
+          "text": "review by mark wilson",
+          "url": "https://www.fastcompany.com/90581252/can-you-trick-this-ai-into-making-money-with-your-face"
+        }
+      ],
+      "image": "facework.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Vibe Check",
+      "year": "2020",
+      "description": "Appropriates common surveillance tools including face recognition and expression analysis to catalog the emotional effect exhibition visitors have on one another. Some are identified as evoking expressions of happiness, disgust, sadness, surprise, or boredom. Upon entering the exhibition, visitors are playfully alerted to who these people are, and as they leave, they may find they've earned this distinction themselves.",
+      "links": [
+        {
+          "text": "code",
+          "url": "https://github.com/lmccart/vibe-check"
+        },
+        {
+          "text": "documentation",
+          "url": "https://lauren-mccarthy.com/Vibe-Check"
+        }
+      ],
+      "image": "vibecheck.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com/"
+        }
+      ]
+    },
+    {
+      "name": "nvidia-co2",
+      "year": "2020",
+      "description": "Command-line tool for showing real time gCO2eq emissions estimates in various formats (equivalent sea ice lost per hour, grams of beef consumed, number of light bulbs, etc) combining CPU and GPU usage. A tool for researchers and hobbyists, playfully intervening at the site of one of the most commonly used debugging/monitoring tools used for machine learning.",
+      "links": [
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/nvidia-co2"
+        }
+      ],
+      "image": "nvidiaco2.png",
+      "collaborators": []
+    },
+    {
+      "name": "Pattern Radio",
+      "year": "2019",
+      "description": "Working with a decade of underwater recordings collected by NOAA to visualize humpback whale songs. Techniques from computer vision, signal processing, machine learning, all converge to push the creative potential of machine-aided listening of contemporary performers in a 11 million year old cultural practice.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://nsynthsuper.withgoogle.com/"
+        },
+        {
+          "text": "frontend code",
+          "url": "https://github.com/googlecreativelab/pattern-radio"
+        },
+        {
+          "text": "analysis code",
+          "url": "https://github.com/kylemcdonald/AudioNotebooks"
+        },
+        {
+          "text": "writeup",
+          "url": "https://medium.com/@kcimc/data-of-the-humpback-whale-9ef09c5920cd"
+        }
+      ],
+      "image": "patternradio.jpg",
+      "collaborators": [
+        {
+          "name": "Google Creative Lab",
+          "url": "https://github.com/googlecreativelab"
+        }
+      ]
+    },
+    {
+      "name": "discrete figures",
+      "year": "2018",
+      "description": "Internationally touring dance performance. Exploring the relationships between the performing arts and mathematics, giving rise to mathematical entities that engage with the bodies of human dancers onstage. Collecting a custom dance dataset and training a new network for generation of abstract dance-like movement.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://research.rhizomatiks.com/s/works/discrete_figures/en/"
+        },
+        {
+          "text": "video",
+          "url": "https://www.youtube.com/watch?v=hauXQQhwbgM"
+        },
+        {
+          "text": "writeup",
+          "url": "https://medium.com/@kcimc/discrete-figures-7d9e9c275c47"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/pkmital/dance2dance"
+        }
+      ],
+      "image": "discretefigures.jpg",
+      "collaborators": [
+        {
+          "name": "Rhizomatiks",
+          "url": "https://research.rhizomatiks.com"
+        }
+      ]
+    },
+    {
+      "name": "ICEspy",
+      "year": "2018",
+      "description": "Concerned you may know an ICE employee? Use this helpful app to check. Just point your camera and press the photo button. We'll check against hundreds of ICE employee photos from LinkedIn and show you the closest match. A direct subversion of face recognition technology to watch those who wield power without responsibility.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://icespy.org/"
+        },
+        {
+          "text": "video",
+          "url": "https://vimeo.com/300616516"
+        }
+      ],
+      "image": "icespy.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "NSynth Super",
+      "year": "2018",
+      "description": "Synthesizer for exploring neural interpolations of sonic textures. Four knobs for controlling \"reference\" sounds and a touchscreen for blending between them using the NSynth algorithm. Contributed to conceptual and interaction design, and wrote the synthesis engine and initial user interface.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://nsynthsuper.withgoogle.com/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/googlecreativelab/open-nsynth-super"
+        },
+        {
+          "text": "making of video",
+          "url": "https://www.youtube.com/watch?v=iTXU9Z0NYoU"
+        },
+        {
+          "text": "demo video",
+          "url": "https://www.youtube.com/watch?v=0fjopD87pyw"
+        }
+      ],
+      "image": "nsynth.jpg",
+      "collaborators": [
+        {
+          "name": "Magenta",
+          "url": "https://magenta.tensorflow.org/"
+        }
+      ]
+    },
+    {
+      "name": "Man and Woman In The Middle",
+      "year": "2017",
+      "description": "We each wrote scripts to intercept and modify or reply to text messages from each other, in the hope of syncing our different communication styles and developing a better relationship and conversation.",
+      "links": [
+        {
+          "text": "info",
+          "url": "https://lauren-mccarthy.com/MWITM-Man-Woman-In-The-Middle"
+        },
+        {
+          "text": "photos",
+          "url": "https://www.flickr.com/photos/kylemcdonald/albums/72157689350044194"
+        }
+      ],
+      "image": "mwitm.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com/"
+        }
+      ]
+    },
+    {
+      "name": "How We Act Together",
+      "year": "2016",
+      "description": "Prompts you to perform small gestures of social interaction repeatedly until exhausted. Your action triggers a video stream of all the previous participants performing the same action back at you. If you perform longer than anyone before you, your own gesture gets added at the end of the stream.",
+      "links": [
+        {
+          "text": "site",
+          "url": "https://hwat.schirn.de/"
+        },
+        {
+          "text": "review by joanne mcneil",
+          "url": "http://www.schirn.de/en/magazine/context/joanne_mcneil_how_we_act_together_mccarthy_mcdonald/"
+        },
+        {
+          "text": "review by paolo ruffino",
+          "url": "http://www.schirn.de/en/magazine/context/paolo_ruffino_how_we_act_together_mccarthy_mcdonald/"
+        }
+      ],
+      "image": "hwat.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com/"
+        }
+      ]
+    },
+    {
+      "name": "Bird Sounds",
+      "year": "2016",
+      "description": "Thousands of bird sounds, organized using machine learning. Similar bird sounds are placed close together, producing a sonic map that produces unexpected connections between different species.",
+      "links": [
+        {
+          "text": "intro",
+          "url": "https://aiexperiments.withgoogle.com/bird-sounds"
+        },
+        {
+          "text": "project",
+          "url": "https://aiexperiments.withgoogle.com/bird-sounds/view/"
+        },
+        {
+          "text": "video",
+          "url": "https://www.youtube.com/watch?v=31PWjb7Do1s"
+        }
+      ],
+      "image": "bird-sounds.png",
+      "collaborators": [
+        {
+          "name": "Google Creative Lab",
+          "url": "https://github.com/googlecreativelab"
+        }
+      ]
+    },
+    {
+      "name": "The Infinite Drum Machine",
+      "year": "2016",
+      "description": "Thousands of everyday sounds, organized using machine learning. Experimenting with alternative interfaces for exploring sound libraries and serendipitous opportunities for musical improvisation and composition.",
+      "links": [
+        {
+          "text": "intro",
+          "url": "https://aiexperiments.withgoogle.com/drum-machine"
+        },
+        {
+          "text": "project",
+          "url": "https://aiexperiments.withgoogle.com/drum-machine/view/"
+        },
+        {
+          "text": "video",
+          "url": "https://www.youtube.com/watch?v=9x-_My5yjQY"
+        }
+      ],
+      "image": "drum-machine.png",
+      "collaborators": [
+        {
+          "name": "Google Creative Lab",
+          "url": "https://github.com/googlecreativelab"
+        }
+      ]
+    },
+    {
+      "name": "Terrapattern",
+      "year": "2016",
+      "description": "Similar-image search for satellite photos. An open-source tool for discovering \"patterns of interest\" in unlabeled satellite imagery\u2014a prototype for exploring the unmapped, and the unmappable. Click an interesting spot on Terrapattern's map, and it will find other locations that look similar.",
+      "links": [
+        {
+          "text": "site",
+          "url": "http://terrapattern.com/"
+        },
+        {
+          "text": "talk",
+          "url": "http://livestream.com/internetsociety/alt-ai/videos/123605631"
+        },
+        {
+          "text": "new yorker",
+          "url": "http://www.newyorker.com/tech/elements/meet-terrapattern-google-earths-missing-search-engine"
+        },
+        {
+          "text": "pop sci",
+          "url": "http://www.popsci.com/you-can-now-search-google-maps-by-matching-similar-landscapes"
+        }
+      ],
+      "image": "terrapattern.jpg",
+      "collaborators": [
+        {
+          "name": "Golan Levin, David Newbury, et al",
+          "url": "http://www.terrapattern.com/team"
+        }
+      ]
+    },
+    {
+      "name": "Highsight",
+      "year": "2015",
+      "description": "A virtual bungee jump through a real space. Visitors are strapped into a harness and a VR headset showing a live stream from a camera on a wire. The camera meanders through a playful diorama before dropping through the bottom of the box and into the crowd.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/144061990"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/Highsight"
+        },
+        {
+          "text": "photos",
+          "url": "https://www.flickr.com/photos/kylemcdonald/albums/72157650807683953"
+        }
+      ],
+      "image": "highsight.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Exhausting a Crowd",
+      "year": "2015",
+      "description": "A crowdsourced description of 12 hours in Piccadilly Circus, London, inspired by the classic 60-page piece of experimental literature from Georges Perec, \u201cAn Attempt at Exhausting a Place in Paris\u201d, written from a bench over three days in 1974.",
+      "links": [
+        {
+          "text": "website",
+          "url": "https://www.exhaustingacrowd.com/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/ExhaustingACrowd"
+        },
+        {
+          "text": "on hyperallergic",
+          "url": "http://hyperallergic.com/211950/an-addictive-experiment-in-annotating-footage-from-a-london-street/"
+        },
+        {
+          "text": "on citylab",
+          "url": "http://www.citylab.com/design/2015/06/caption-the-lives-of-these-unwitting-london-pedestrians/395018/"
+        },
+        {
+          "text": "on creators project",
+          "url": "http://thecreatorsproject.vice.com/en_au/blog/watch-12-hours-of-londons-piccadilly-circus-in-crowdsourced-surveillance-art"
+        }
+      ],
+      "image": "exhausting.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "pplkpr",
+      "year": "2014",
+      "description": "An app that tracks, analyzes, and auto-manages your relationships. It uses GPS and subtle changes in heart rhythm to keep track of when you're coming and going and  determine your emotional state. The data is connected to people you interact with to determine who should be auto-scheduled into or out of your life.",
+      "links": [
+        {
+          "text": "on hyperallergic",
+          "url": "http://hyperallergic.com/177726/new-app-lets-users-outsource-their-relationships/"
+        },
+        {
+          "text": "on edgadget",
+          "url": "http://www.engadget.com/2015/01/20/peoplekeeper-app-launch"
+        },
+        {
+          "text": "on techcrunch",
+          "url": "http://techcrunch.com/2015/01/19/pplkpr/"
+        },
+        {
+          "text": "on can",
+          "url": "http://www.creativeapplications.net/i-os/pplkpr-app-to-analyze-manage-and-optimize-your-social-life/"
+        },
+        {
+          "text": "on animal",
+          "url": "http://animalnewyork.com/2015/death-tinder-artists-build-dating-app-monitors-irl-interaction-matches/"
+        },
+        {
+          "text": "on wired",
+          "url": "http://www.wired.com/2015/01/hard-time-human-app-manages-friendships/"
+        },
+        {
+          "text": "on fastco",
+          "url": "http://www.fastcodesign.com/3041326/this-app-wants-to-control-your-social-life"
+        },
+        {
+          "text": "on independent",
+          "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/features/pplkpr-if-real-friendship-makes-your-heart-beat-faster-this-absurdlynamed-app-isnt-for-you-10009467.html"
+        },
+        {
+          "text": "on forture",
+          "url": "http://fortune.com/2015/07/09/friends-app/"
+        },
+        {
+          "text": "on cnbc",
+          "url": "http://www.cnbc.com/2015/07/09/this-app-knows-who-stresses-you-out-the-most.html"
+        }
+      ],
+      "image": "pplkpr.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com/"
+        }
+      ]
+    },
+    {
+      "name": "Augmented Hand Series",
+      "year": "2014",
+      "description": "Real-time interactive software system that presents playful, dreamlike, and uncanny transformations of its visitors' hands. It consists of a box into which the visitor inserts their hand, and a screen which displays their \"reimagined\" hand\u2014for example, with an extra finger, or with fingers that move autonomously.",
+      "links": [
+        {
+          "text": "documentation",
+          "url": "http://www.flong.com/projects/augmented-hand-series/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/CreativeInquiry/digital_art_2014"
+        },
+        {
+          "text": "video",
+          "url": "https://vimeo.com/111951283"
+        },
+        {
+          "text": "on can",
+          "url": "http://www.creativeapplications.net/openframeworks/the-augmented-hand-series/"
+        },
+        {
+          "text": "on wired",
+          "url": "http://www.wired.com/2015/01/watch-code-warp-peoples-hands-trippy-visuals/"
+        }
+      ],
+      "image": "hands.jpg",
+      "collaborators": [
+        {
+          "name": "Golan Levin",
+          "url": "http://www.flong.com/"
+        },
+        {
+          "name": "Chris Sugrue",
+          "url": "http://csugrue.com/"
+        }
+      ]
+    },
+    {
+      "name": "Sharing Faces",
+      "year": "2013",
+      "description": "For eight months we shared photos between Anyang, Korea and Yamaguchi, Japan. Visiting the installation at either location would match your expression and pose in realtime with these photos of someone else who once stood in front of the installation. Thousands of people visited the work, and saw themselves reflected in the face of another person.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/96549043"
+        },
+        {
+          "text": "on apap",
+          "url": "http://apap.or.kr/sharing_faces"
+        },
+        {
+          "text": "code",
+          "url": "http://github.com/kylemcdonald/sharingfaces"
+        },
+        {
+          "text": "on can",
+          "url": "http://www.creativeapplications.net/openframeworks/sharing-faces-seeing-yourself-reflected-in-the-image-of-others/"
+        },
+        {
+          "text": "on verge",
+          "url": "http://www.theverge.com/2014/8/28/6077967/artist-kyle-mcdonald-builds-a-video-mirror-with-a-thousand-faces"
+        },
+        {
+          "text": "on wired",
+          "url": "http://www.wired.com/2014/09/mcdonald-digital-mirror/"
+        },
+        {
+          "text": "on psfk",
+          "url": "http://www.psfk.com/2014/11/sharing-faces-mirror-art-computer-science.html"
+        }
+      ],
+      "image": "sharingfaces.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Serendipity",
+      "year": "2014",
+      "description": "A map showing ephemeral connections created by simultaneous listens: every second a few people hit \"play\" on the same song, at the same time. Developed during inaugural media artist residency at Spotify.",
+      "links": [
+        {
+          "text": "website",
+          "url": "https://www.spotify.com/arts/serendipity"
+        },
+        {
+          "text": "on gizmodo",
+          "url": "http://gizmodo.com/explore-the-star-crossesd-spotify-users-listening-to-so-1624926571"
+        },
+        {
+          "text": "on engadget",
+          "url": "http://www.engadget.com/2014/08/21/spotifys-resident-media-artist/"
+        },
+        {
+          "text": "on the verge",
+          "url": "http://www.theverge.com/2014/8/21/6050893/spotify-serendipity-map-shows-when-two-people-play-the-same-song-at-the-same-time"
+        },
+        {
+          "text": "on quartz",
+          "url": "http://qz.com/253201/spotifys-mesmerizing-new-map-shows-that-music-can-be-social-again/"
+        }
+      ],
+      "image": "serendipity.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Who Pays Artists?",
+      "year": "2014",
+      "description": "A sounding board for artists to anonymously share stories about what they've been paid for, and by whom. An intervention and conversation starter in the ongoing dialog about money in the context of the arts.",
+      "links": [
+        {
+          "text": "website",
+          "url": "http://www.whopaysartists.com/"
+        },
+        {
+          "text": "code",
+          "url": "http://github.com/kylemcdonald/whopaysartists/"
+        },
+        {
+          "text": "on animalny",
+          "url": "http://animalnewyork.com/2014/pays-artists-doesnt/"
+        },
+        {
+          "text": "on artnet",
+          "url": "http://news.artnet.com/art-world/new-website-asks-artists-to-rate-their-jobs-34799"
+        }
+      ],
+      "image": "whopaysartists.png",
+      "collaborators": []
+    },
+    {
+      "name": "Social Soul",
+      "year": "2014",
+      "description": "An immersive digital experience inspired by the question: how does it feel to be inside someone else's social media stream? Starts with the stream of the person visiting, then uses a custom algorithm to match participants, displaying their social stream instead. After exiting, users and their connected \"soulmate\" receive a tweet encouraging offline conversation.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/90547410"
+        },
+        {
+          "text": "photos",
+          "url": "https://www.flickr.com/search/?w=28622838@N00&q=socialsoul"
+        },
+        {
+          "text": "code",
+          "url": "http://github.com/lmccart/socialsoul"
+        },
+        {
+          "text": "on gizmodo",
+          "url": "http://gizmodo.com/this-real-time-installation-of-social-media-feeds-is-in-1557137056"
+        },
+        {
+          "text": "on psfk",
+          "url": "http://www.psfk.com/2014/04/immersive-social-media-feed.html"
+        }
+      ],
+      "image": "socialsoul.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com"
+        }
+      ]
+    },
+    {
+      "name": "Noodle",
+      "year": "2014",
+      "description": "A crowdsourced robot with the inputs and outputs of a computer but the thoughts and feelings of a person. Noodle uses a natural language interface to program mechanical turk workers, providing them with a body for influencing the real world.",
+      "links": [
+        {
+          "text": "instructable",
+          "url": "http://instructables.com/id/Noodle-a-crowdsourced-robot/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/lmccart/noodle"
+        }
+      ],
+      "image": "noodle.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com"
+        }
+      ]
+    },
+    {
+      "name": "Conversnitch",
+      "year": "2013",
+      "description": "An eavesdropping lamp/lightbulb that livetweets conversations, using a small microphone with a Raspberry Pi that records audio snippets and uploads them to Mechanical Turk for automated transcription.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/87564506"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/brianhouse/conversnitch/"
+        },
+        {
+          "text": "photos",
+          "url": "https://www.flickr.com/search/?w=28622838@N00&q=conversnitch"
+        },
+        {
+          "text": "on wired",
+          "url": "http://www.wired.com/2014/04/coversnitch-eavesdropping-lightbulb"
+        },
+        {
+          "text": "on salon",
+          "url": "http://www.salon.com/2014/04/23/this_totally_creepy_art_project_will_make_you_think_twice_about_nsa_mass_surveillance/"
+        },
+        {
+          "text": "on the verge",
+          "url": "http://www.theverge.com/2014/4/23/5643396/conversnitch-spying-lamp-tweeting-new-yorkers-conversations"
+        },
+        {
+          "text": "on abajournal",
+          "url": "http://www.abajournal.com/news/article/artists_say_they_planted_light_wired_for_sound_at_mickey_ds_to_pick_up_pass/"
+        }
+      ],
+      "image": "conversnitch.jpg",
+      "collaborators": [
+        {
+          "name": "Brian House",
+          "url": "http://brianhouse.net/"
+        }
+      ]
+    },
+    {
+      "name": "us+",
+      "year": "2013",
+      "description": "A Google Hangout app that analyzes speech and facial expressions to improve conversation. Speech to text is handled by the Chrome Speech API, linguistic analysis is based on <a href=\"http://www.liwc.net/\">LIWC</a> and inspired by linguistic style matching research, facial analysis is based on the Hangouts Face API.",
+      "links": [
+        {
+          "text": "project page",
+          "url": "https://lauren-mccarthy.com/us"
+        },
+        {
+          "text": "on neural",
+          "url": "http://neural.it/2014/05/us-by-lauren-mccarthy-and-kyle-mcdonald-hangout-confidential/"
+        },
+        {
+          "text": "start hangout",
+          "url": "https://plus.google.com/hangouts/_?gid=652359686588"
+        },
+        {
+          "text": "video",
+          "url": "https://vimeo.com/81903116"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/lmccart/usplus"
+        },
+        {
+          "text": "on huffpo",
+          "url": "http://www.huffingtonpost.com/2013/12/17/us-plus-app_n_4455788.html"
+        },
+        {
+          "text": "on fastco",
+          "url": "http://www.fastcolabs.com/3023656/a-google-hangouts-plugin-that-makes-you-a-nicer-person"
+        },
+        {
+          "text": "on vault",
+          "url": "http://www.vault.com/blog/interviewing/better-interview-skills-theres-an-app-for-that/"
+        }
+      ],
+      "image": "usplus.jpg",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com"
+        }
+      ]
+    },
+    {
+      "name": "Going Public",
+      "year": "2013",
+      "description": "A one month performance coinciding with the Twitter IPO, where my Twitter profile is made publicly accessible by allowing anyone to tweet as \"me\" simply by direct messaging me a tweet prepended with a \"~\" (tilde).",
+      "links": [
+        {
+          "text": "original post",
+          "url": "http://fffff.at/going-public/"
+        },
+        {
+          "text": "code",
+          "url": "http://github.com/kylemcdonald/GoingPublic"
+        },
+        {
+          "text": "twitter",
+          "url": "http://twitter.com/kcimc"
+        },
+        {
+          "text": "on mashable",
+          "url": "http://mashable.com/2013/11/12/open-twitter-account/"
+        }
+      ],
+      "image": "goingpublic.png",
+      "collaborators": []
+    },
+    {
+      "name": "FriendFlop",
+      "year": "2013",
+      "description": "A browser extension for Chrome that scrambles the identities on your Twitter or Facebook timelines, dissolving your biases and reminding you that everyone is saying the same shit anyway.",
+      "links": [
+        {
+          "text": "original post",
+          "url": "http://fffff.at/friendflop/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/lmccart/AppropriatingInteractionTechnologies/tree/master/ChromeExtensionExamples/FriendFlop"
+        },
+        {
+          "text": "extension page",
+          "url": "https://chrome.google.com/webstore/detail/friendflop/hcdlmnaglbpbjmempemomffogebjnlpg"
+        }
+      ],
+      "image": "friendflop.png",
+      "collaborators": [
+        {
+          "name": "Lauren McCarthy",
+          "url": "https://lauren-mccarthy.com"
+        }
+      ]
+    },
+    {
+      "name": "Open Fit",
+      "year": "2013",
+      "description": "Open source software that investigates several approaches to generating custom tailored pants patterns. Open Fit Lab is an experimental event where we use this software for on-the-spot generation and creation of custom clothes.",
+      "links": [
+        {
+          "text": "website",
+          "url": "http://openfitlab.com/"
+        },
+        {
+          "text": "code",
+          "url": "http://github.com/kylemcdonald/OpenFit"
+        },
+        {
+          "text": "video",
+          "url": "https://vimeo.com/69623646"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/lisakori/sets/72157634283502022/"
+        },
+        {
+          "text": "on creators project",
+          "url": "http://thecreatorsproject.vice.com/blog/open-sourcing-a-custom-pair-of-jeans-with-openfit-lab-from-kyle-mcdonald-and-lisa-kori"
+        }
+      ],
+      "image": "openfit.jpg",
+      "collaborators": [
+        {
+          "name": "Lisa Kori",
+          "url": "http://lisakori.net"
+        }
+      ]
+    },
+    {
+      "name": "Roseheading",
+      "year": "2013",
+      "description": "Endless glitch facets of a \"fractured, frozen\" mosaic, a metaphor for our data in the cloud. Commissioned by <a href=\"http://www.xo.com/\">xo</a>.",
+      "links": [
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/Roseheading/"
+        }
+      ],
+      "image": "roseheading.png",
+      "collaborators": []
+    },
+    {
+      "name": "Social Roulette",
+      "year": "2013",
+      "description": "A game with \"a 1 in 6 chance of deleting your Facebook account\", in fact a hoax that was shut down by Facebook for suggesting the possibility that your account is yours to play games with.",
+      "links": [
+        {
+          "text": "website",
+          "url": "http://www.socialroulette.net"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/socialroulette.net"
+        },
+        {
+          "text": "original post",
+          "url": "http://fffff.at/social-roulette/"
+        },
+        {
+          "text": "followup post",
+          "url": "http://fffff.at/when-you-dont-own-yourself/"
+        },
+        {
+          "text": "on techcrunch",
+          "url": "http://techcrunch.com/2013/05/13/social-roulette-deletes-your-facebook-account/"
+        },
+        {
+          "text": "on bbc",
+          "url": "http://www.bbc.co.uk/news/technology-22523821"
+        },
+        {
+          "text": "on yahoo news",
+          "url": "http://news.yahoo.com/facebook-social-roulette-interview-origin-132051686.html"
+        },
+        {
+          "text": "on huffington post",
+          "url": "http://www.huffingtonpost.com/2013/05/14/social-roulette-app-facebook_n_3268382.html"
+        },
+        {
+          "text": "on laughing squid",
+          "url": "http://laughingsquid.com/social-roulette-a-game-with-a-one-in-six-chance-of-deleting-your-facebook-account/"
+        },
+        {
+          "text": "on betabeat",
+          "url": "http://betabeat.com/2013/05/seeking-a-cheap-thrill-play-social-roulette-and-risk-a-one-in-six-chance-of-having-your-facebook-account-deleted/"
+        },
+        {
+          "text": "on the next web",
+          "url": "http://thenextweb.com/shareables/2013/05/13/social-roulette-are-you-ready-to-risk-it-all/"
+        },
+        {
+          "text": "on cnet news",
+          "url": "http://news.cnet.com/8301-1023_3-57584314-93/facebook-kills-social-suicide-app-social-roulette/"
+        }
+      ],
+      "image": "socialroulette.jpg",
+      "collaborators": [
+        {
+          "name": "Jonas Lund",
+          "url": "http://jonaslund.biz"
+        },
+        {
+          "name": "Jonas Jongejan",
+          "url": "http://halfdanj.dk/"
+        }
+      ]
+    },
+    {
+      "name": "Light Leaks",
+      "year": "2013",
+      "description": "A scattered array of fifty mirror balls reflect light from three projectors, filling a room completely with small reflections, casting patterns that fill the visitor's peripheral vision. Creating a curious space that alternates between a meditative state, and an uneasy imbalance.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/66167082"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/LightLeaks"
+        },
+        {
+          "text": "at click festival",
+          "url": "http://clickfestival.dk/program-2013 /light-leaks"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157633608355695/"
+        }
+      ],
+      "image": "lightleaks.jpg",
+      "collaborators": [
+        {
+          "name": "Jonas Jongejan",
+          "url": "http://halfdanj.dk/"
+        }
+      ]
+    },
+    {
+      "name": "Inbox Zero Residency",
+      "year": "2013",
+      "description": "A one-week residency aimed at clearing my inbox, treating email answering as art, daily digital life as readymade performance. Daily reports on Twitter, supported by <a href=\"http://www.temporaryseoul.org/\">GaOk</a> in Seoul.",
+      "links": [
+        {
+          "text": "text",
+          "url": "http://www.temporaryseoul.org/?p=1464"
+        },
+        {
+          "text": "first tweet",
+          "url": "https://twitter.com/kcimc/status/310980106166362114"
+        }
+      ],
+      "image": "inboxzero.png",
+      "collaborators": []
+    },
+    {
+      "name": "RAM Dance Toolkit",
+      "year": "2013",
+      "description": "A toolkit for dancers to communicate with each other in virtual environments. Includes functions to access, recognize, and process motion data to support creation of various scenes, and to provide realtime feedbacks to dancers with code, easily.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/64703174"
+        },
+        {
+          "text": "project page",
+          "url": "http://interlab.ycam.jp/en/projects/ram"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/YCAMInterlab/RAMDanceToolkit"
+        },
+        {
+          "text": "tutorial",
+          "url": "https://github.com/YCAMInterlab/RAMDanceToolkit/wiki"
+        }
+      ],
+      "image": "ramdance.jpg",
+      "collaborators": [
+        {
+          "name": "YCAM",
+          "url": "https://github.com/YCAMInterlab"
+        }
+      ]
+    },
+    {
+      "name": "ExR3",
+      "year": "2013",
+      "description": "An anamorphic analog interactive installation that exists coherently in a fractured, mirrored version of a reflected room visible from four points within the real space.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/60042933"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157632824008196/"
+        },
+        {
+          "text": "on creators project",
+          "url": "http://www.thecreatorsproject.com/blog/iexr3i-plays-with-reflection-and-perspective-to-make-geometric-shapes"
+        }
+      ],
+      "image": "exr3.jpg",
+      "collaborators": [
+        {
+          "name": "Elliot Woods",
+          "url": "http://www.kimchiandchips.com/"
+        }
+      ]
+    },
+    {
+      "name": "Missing",
+      "year": "2012",
+      "description": "50 robotic speakers turn to face visitors, while a spatialized recording of The xx's song \"Missing\" follows them through the space.",
+      "links": [
+        {
+          "text": "video",
+          "url": "http://www.youtube.com/watch?v=bFXJa_1_bHg"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157631769422415/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/cibomahto/Missing"
+        },
+        {
+          "text": "on can",
+          "url": "http://www.creativeapplications.net/sound/missing-by-the-xx-spatializing-sound-with-sonos/"
+        },
+        {
+          "text": "on wired",
+          "url": "http://www.wired.com/underwire/2012/11/the-xx-robotic-speakers-exhibit"
+        },
+        {
+          "text": "on notcot",
+          "url": "http://www.notcot.com/archives/2012/11/sonos-the-xx-kyle-mcdonald.php"
+        }
+      ],
+      "image": "missing.jpg",
+      "collaborators": [
+        {
+          "name": "The xx",
+          "url": "http://thexx.info/"
+        },
+        {
+          "name": "Matt Mets",
+          "url": "http://www.cibomahto.com/"
+        },
+        {
+          "name": "Aramique",
+          "url": "http://cargocollective.com/aramique/"
+        }
+      ]
+    },
+    {
+      "name": "Mother",
+      "year": "2012",
+      "description": "Digitally extruding hand gestures in response to linguistic cues as a method of experimental sound visualization.",
+      "links": [
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157630940848962/"
+        },
+        {
+          "text": "code",
+          "url": "http://github.com/kylemcdonald/Mother"
+        }
+      ],
+      "image": "mother.jpg",
+      "collaborators": [
+        {
+          "name": "Inmi Lee",
+          "url": "http://www.inmilee.net/"
+        }
+      ]
+    },
+    {
+      "name": "Blind Self Portrait",
+      "year": "2012",
+      "description": "While the visitor keeps their eyes shut, a moving platform guides a pen in their hand to draw a self-portrait, using computer vision to track their face and generate a line drawing. The result is a machine-aided drawing, a self-portrait you could never draw.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/40279845"
+        },
+        {
+          "text": "photos",
+          "url": "https://secure.flickr.com/photos/kylemcdonald/sets/72157629813858248/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/BlindSelfPortrait"
+        },
+        {
+          "text": "on creators project",
+          "url": "http://thecreatorsproject.com/blog/you-can-finally-be-an-artist-with-this-self-portrait-machine"
+        }
+      ],
+      "image": "selfportrait.jpg",
+      "collaborators": [
+        {
+          "name": "Matt Mets",
+          "url": "http://www.cibomahto.com/"
+        }
+      ]
+    },
+    {
+      "name": "subpixel",
+      "year": "2012",
+      "description": "A subway advertisement upgrade kit, built from laser-cut acrylic, rubber bands, and nine razor blades. It transforms a small patch of subway advertisement into an 8\u00d78 grid of pixel stickers, ready for interaction with the public.",
+      "links": [
+        {
+          "text": "project page",
+          "url": "http://fffff.at/subpixel/"
+        },
+        {
+          "text": "laser cutting files",
+          "url": "http://fffff.at/?attachment_id=8958"
+        },
+        {
+          "text": "photos",
+          "url": "https://secure.flickr.com/photos/kylemcdonald/sets/72157629998126938/"
+        },
+        {
+          "text": "on makezine",
+          "url": "http://blog.makezine.com/2012/04/04/poster-pixelater/"
+        }
+      ],
+      "image": "subpixel.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "ScratchML",
+      "year": "2012",
+      "description": "A format for describing turntablism, as well as tools for recording, analyzing, sharing, and even recreating scratch performances with giant robot arms. Initially built as a prototype in at the 319 Scholes <a href=\"http://arthackday.net/319scholes/\">Art Hack Day</a>.",
+      "links": [
+        {
+          "text": "project site",
+          "url": "http://scratchml.com/"
+        },
+        {
+          "text": "on FAT",
+          "url": "http://fffff.at/scratch-markup-language-sml/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/scratchml"
+        },
+        {
+          "text": "demo video",
+          "url": "https://vimeo.com/37353636"
+        },
+        {
+          "text": "hackday videos",
+          "url": "http://fffff.at/fuckflickr/scratchML/videos/"
+        },
+        {
+          "text": "on the verge",
+          "url": "http://www.theverge.com/2012/1/31/2760713/scratch-markup-language-sml-scratchml-turntablism"
+        }
+      ],
+      "image": "scratchml.jpg",
+      "collaborators": [
+        {
+          "name": "Jamie Wilkinson",
+          "url": "http://jamiedubs.com/"
+        },
+        {
+          "name": "Michael Auger",
+          "url": "http://lm4k.com/"
+        }
+      ]
+    },
+    {
+      "name": "Shadowplay",
+      "year": "2011",
+      "description": "Experiments with shadow manipulation as an alternative interaction paradigm, exploring the unexpected results of structure in shadow, or form in emptiness. Shadowplay uses <a href=\"https://github.com/YCAMInterlab/ProCamToolkit/\">ProCamToolkit</a> which was co-developed by the <a href=\"http://www.ycam.jp/en/interlab/\">YCAM Interlab</a> during a residency.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/37090460"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/YCAMInterlab/ProCamToolkit/"
+        },
+        {
+          "text": "on cdm",
+          "url": "http://createdigitalmotion.com/2012/03/projector-and-camera-a-little-closer-new-magical-mapping-tools-3d-scanning-and-more/"
+        }
+      ],
+      "image": "shadowplay.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "mapamok",
+      "year": "2011",
+      "description": "An experimental projection mapping tool that minimizes the amount of time spent doing calibration. mapamok uses <a href=\"https://github.com/YCAMInterlab/ProCamToolkit/\">ProCamToolkit</a> which was co-developed by the <a href=\"http://www.ycam.jp/en/interlab/\">YCAM Interlab</a> during a residency.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/37089912"
+        },
+        {
+          "text": "tutorial",
+          "url": "https://github.com/YCAMInterlab/ProCamToolkit/wiki/mapamok-%28English%29"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/YCAMInterlab/ProCamToolkit/"
+        },
+        {
+          "text": "app",
+          "url": "https://github.com/YCAMInterlab/ProCamToolkit/downloads"
+        },
+        {
+          "text": "at byob helsing\u00f8r",
+          "url": "https://secure.flickr.com/photos/kylemcdonald/7001747416/in/photostream"
+        },
+        {
+          "text": "on cdm",
+          "url": "http://createdigitalmotion.com/2012/03/projector-and-camera-a-little-closer-new-magical-mapping-tools-3d-scanning-and-more/"
+        }
+      ],
+      "image": "mapamok.png",
+      "collaborators": []
+    },
+    {
+      "name": "Face Substitution Research",
+      "year": "2011",
+      "description": "Real time face tracking and substitution experiments including a realization of the <a href=\"https://vimeo.com/29391633\">Scramble Suit</a> and an interactive installation <a href=\"https://vimeo.com/38700632\">Faces</a> that picks a new face for you every time you blink.",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/29348533"
+        },
+        {
+          "text": "photo",
+          "url": "https://secure.flickr.com/photos/kylemcdonald/6168317343/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/arturoc/FaceSubstitution"
+        },
+        {
+          "text": "app",
+          "url": "https://github.com/arturoc/FaceSubstitution/downloads"
+        },
+        {
+          "text": "at eyebeam",
+          "url": "http://eyebeam.org/events/exhibition-wired-frames"
+        },
+        {
+          "text": "at playtime",
+          "url": "http://playtime.ailleurs.ch/en/exposition/bodies-and-minds/"
+        },
+        {
+          "text": "on artinfo",
+          "url": "http://blogs.artinfo.com/artintheair/2011/09/21/digital-artists-virtually-swap-faces/"
+        },
+        {
+          "text": "design of the year nomination",
+          "url": "http://www.designsoftheyear.com/2012/01/31/face-substitution-new-york-usa-arturo-castro-and-kyle-mcdonald/"
+        }
+      ],
+      "image": "substitution.jpg",
+      "collaborators": [
+        {
+          "name": "Arturo Castro",
+          "url": "http://arturocastro.net/"
+        }
+      ]
+    },
+    {
+      "name": "Pocket Topographies",
+      "year": "2011",
+      "description": "Ongoing experiments with pocket-sized topographical maps for visualizing geographic data in a physical form. The first piece shows a year of travel around NYC captured surreptitiously by an iPhone. Started during a residency at <a href=\"http://makerbot.com\">MakerBot</a>.",
+      "links": [
+        {
+          "text": "photos",
+          "url": "https://secure.flickr.com/photos/kylemcdonald/sets/72157626620703953/with/5741567755/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/Makerbot"
+        }
+      ],
+      "image": "pockettopographies.jpg",
+      "collaborators": [
+        {
+          "name": "Chris Woebken",
+          "url": "http://www.woebken.net/"
+        }
+      ]
+    },
+    {
+      "name": "People Staring at Computers",
+      "year": "2011",
+      "description": "A photographic intervention. Custom app installed around NYC computer stores, taking a picture each minute and uploading it. Photos exhibited on site, full screen, on every computer.",
+      "links": [
+        {
+          "text": "writeup",
+          "url": "https://kylemcdonald.net/psac"
+        },
+        {
+          "text": "video",
+          "url": "http://vimeo.com/25958231"
+        },
+        {
+          "text": "tumblr",
+          "url": "http://peoplestaringatcomputers.tumblr.com/"
+        },
+        {
+          "text": "on fffff.at",
+          "url": "http://fffff.at/people-staring-at-computers/"
+        },
+        {
+          "text": "on neural",
+          "url": "http://neural.it/2011/09/people-staring-at-computers-the-discreet-gaze-of-the-commodities/"
+        },
+        {
+          "text": "on nytimes",
+          "url": "https://www.nytimes.com/2011/07/20/nyregion/at-2-apple-stores-creating-art-via-webcam-secretly.html"
+        },
+        {
+          "text": "on bbc",
+          "url": "http://www.bbc.co.uk/news/technology-14080438"
+        },
+        {
+          "text": "on thefactoryfactory",
+          "url": "http://thefactoryfactory.com/wordpress/?p=831"
+        },
+        {
+          "text": "on gizmodo",
+          "url": "http://gizmodo.com/5818243/what-people-look-like-when-theyre-using-the-computer"
+        },
+        {
+          "text": "on techdirt",
+          "url": "http://www.techdirt.com/articles/20110707/23055015003/secret-service-descends-artist-mildly-creepy-public-photography.shtml"
+        },
+        {
+          "text": "on the register",
+          "url": "http://www.theregister.co.uk/2011/07/08/kyle_mcdonald_meets_the_secret_service/"
+        },
+        {
+          "text": "on mashable",
+          "url": "http://mashable.com/2011/07/07/secret-service-apple-store-art-2/"
+        },
+        {
+          "text": "on rwdfoundation",
+          "url": "http://rwdfoundation.org/new_ideas__directions/arts_and_culture/public_spaces_and_private_faces_in_new_media_art"
+        },
+        {
+          "text": "ars prix honorary mention",
+          "url": "http://prix2012.aec.at/prixwinner/6037/"
+        }
+      ],
+      "image": "psac.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Sharing Interviews",
+      "year": "2011",
+      "description": "Interview series about creators sharing work, with an emphasis on open source, media art, and digital communities. The interviews are conducted with EtherPad and stored on GitHub.",
+      "links": [
+        {
+          "text": "all interviews",
+          "url": "https://github.com/kylemcdonald/SharingInterviews"
+        },
+        {
+          "text": "vade on cdm",
+          "url": "http://createdigitalmotion.com/2011/05/interview-anton-marini-on-visual-expression-exploring-glitch-open-community/"
+        }
+      ],
+      "image": "sharinginterviews.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Eyeshine",
+      "year": "2011",
+      "description": "Interactive installation which captures, records and replays the retroreflections (red-eye effects) from the eyes of its observers. In doing so it presents an image wholly constructed through the process of being observed.",
+      "links": [
+        {
+          "text": "project page",
+          "url": "http://www.flong.com/projects/eyeshine/"
+        },
+        {
+          "text": "video",
+          "url": "https://vimeo.com/29356492"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/Eyeshine"
+        }
+      ],
+      "image": "eyeshine.jpg",
+      "collaborators": [
+        {
+          "name": "Golan Levin",
+          "url": "http://www.flong.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Janus Machine",
+      "year": "2010",
+      "description": "A 3d photo booth built from a structured light system. Janus is often depicted with two faces, each facing in opposite directions. Here: the real face, and the scan stored by the computer.",
+      "links": [
+        {
+          "text": "source",
+          "url": "https://github.com/kylemcdonald/TheJanusMachine/"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157624908558482/"
+        },
+        {
+          "text": "at aec",
+          "url": "http://www.aec.at/center_exhibitions_project_en.php?id=162"
+        },
+        {
+          "text": "at cinekid",
+          "url": "http://www.cinekid.nl/nl/festivalprogram/block/2388"
+        },
+        {
+          "text": "at bouillants",
+          "url": "http://www.bouillants.fr/the-janus-machine-2/"
+        },
+        {
+          "text": "at art rock",
+          "url": "http://www.artrock.org/programme/accueil-programme/217548/exposition-d-art-numerique/index.php5?jour=jour4"
+        },
+        {
+          "text": "at offfm\u00e0tica",
+          "url": "http://2011.sonar.es/en/sonarmatica/kyle-mcdonald-zach-lieberman-theo-watson-daito-manabe_47.html"
+        },
+        {
+          "text": "in eye",
+          "url": "http://eyemagazine.com/feature.php?id=194&fid=896"
+        },
+        {
+          "text": "ars interview",
+          "url": "https://www.youtube.com/watch?v=hAcl3ayRwms"
+        }
+      ],
+      "image": "janusmachine.jpg",
+      "collaborators": [
+        {
+          "name": "Zach Lieberman",
+          "url": "http://thesystemis.com/"
+        },
+        {
+          "name": "Theo Watson",
+          "url": "http://theowatson.com/"
+        },
+        {
+          "name": "Daito Manabe",
+          "url": "http://daito.ws/"
+        }
+      ]
+    },
+    {
+      "name": "Only Everything Lasts Forever",
+      "year": "2008",
+      "description": "Very long sound composition for MP3: an arrangement of every sound we can uniqely distinguish. An exploration of noise and emptiness, and the auditory implications of sound representation. An open source project towards an MFA.",
+      "links": [
+        {
+          "text": "project page",
+          "url": "http://kylemcdonald.net/oelf/"
+        },
+        {
+          "text": "google code",
+          "url": "http://code.google.com/p/oelf/"
+        },
+        {
+          "text": "images",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157607460593040/"
+        },
+        {
+          "text": "on cdm",
+          "url": "http://createdigitalmusic.com/2010/05/12/your-hearing-according-to-mp3-sounds-for-humans-played-for-10450-years"
+        }
+      ],
+      "image": "oelf.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Night Lights",
+      "year": "2009",
+      "description": "Building projection with crowd interaction, featuring three different interaction modes over six different scenes, cycled every hour over five nights in Auckland, NZ.",
+      "links": [
+        {
+          "text": "video from yyn",
+          "url": "http://vimeo.com/8525186"
+        },
+        {
+          "text": "video from daito manabe",
+          "url": "http://www.youtube.com/watch?v=V9QwzX836-E"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157622643837444/"
+        },
+        {
+          "text": "yyn page",
+          "url": "http://yesyesno.com/night-lights"
+        },
+        {
+          "text": "source",
+          "url": "http://code.google.com/p/projectknave/"
+        }
+      ],
+      "image": "nightlights.jpg",
+      "collaborators": [
+        {
+          "name": "YesYesNo",
+          "url": "http://yesyesno.com/"
+        }
+      ]
+    },
+    {
+      "name": "keytweeter",
+      "year": "2009",
+      "description": "One-year performance for custom keylogger, tweeting every 140 characters I type, ending June 30, 2010. An exploration of the boundary between \"information\" and \"control\", ubiquitous status updates, and personal identity.",
+      "links": [
+        {
+          "text": "twitter",
+          "url": "http://twitter.com/keytweeter"
+        },
+        {
+          "text": "discussion and source",
+          "url": "http://www.openframeworks.cc/forum/viewtopic.php?f=12&t=2227"
+        },
+        {
+          "text": "application",
+          "url": "keytweeter/keytweeter.zip"
+        },
+        {
+          "text": "on neural",
+          "url": "http://neural.it/2009/07/keytweeter-twitting-without-filters/"
+        },
+        {
+          "text": "on hackaday",
+          "url": "http://hackaday.com/2009/07/01/twittering-keylogger/"
+        },
+        {
+          "text": "on la libre",
+          "url": "http://www.lalibre.be/societe/cyber/article/569283/les-reseaux-sociaux-ne-laissent-pas-indifferent.html"
+        }
+      ],
+      "image": "keytweeter.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Portrait Machine",
+      "year": "2009",
+      "description": "An interactive photography installation that visualizes the connections between visitors, reminding us of our connectedness and uniqueness, creating strong visual patterns and playful juxtapositions.",
+      "links": [
+        {
+          "text": "video",
+          "url": "http://vimeo.com/5171102"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.theowatson.com/site_docs/work.php?id=43"
+        },
+        {
+          "text": "screenshots",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157619878476317/"
+        },
+        {
+          "text": "discussion",
+          "url": "http://www.openframeworks.cc/forum/viewtopic.php?f=12&t=2146"
+        },
+        {
+          "text": "CBK Amsterdam",
+          "url": "http://www.cbkamsterdam.nl/index.php?secID=4&artID=116"
+        },
+        {
+          "text": "cinekid",
+          "url": "http://www.cinekid.nl/en/festivalprogram/block/1294"
+        }
+      ],
+      "image": "portraitmachine.jpg",
+      "collaborators": [
+        {
+          "name": "Theo Watson",
+          "url": "http://theowatson.com/"
+        }
+      ]
+    },
+    {
+      "name": "DIY 3D Scanning",
+      "year": "2009",
+      "description": "Ongoing work democratizing realtime 3D scanning with structured light (one projector, one camera).",
+      "links": [
+        {
+          "text": "code",
+          "url": "http://code.google.com/p/structured-light/"
+        },
+        {
+          "text": "video",
+          "url": "http://www.vimeo.com/8392566"
+        },
+        {
+          "text": "images",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157613657773217/"
+        },
+        {
+          "text": "demo",
+          "url": "http://openprocessing.org/visuals/?visualID=1995"
+        },
+        {
+          "text": "instructable",
+          "url": "http://www.instructables.com/id/Structured-Light-3D-Scanning/"
+        },
+        {
+          "text": "on gizmodo",
+          "url": "http://gizmodo.com/5437326/recreate-an-extraordinary-radiohead-video-with-ordinary-tech-and-this-guide"
+        },
+        {
+          "text": "on great dance",
+          "url": "http://greatdance.com/thekineticinterface/2009/02/diy-laser-3d-animation/"
+        },
+        {
+          "text": "on hackaday",
+          "url": "http://hackaday.com/2009/12/30/update-realtime-3d-for-you-too/"
+        },
+        {
+          "text": "on makezine",
+          "url": "http://blog.makezine.com/archive/2009/12/how-to_structured_light_3d_scanning.html"
+        },
+        {
+          "text": "on cdm",
+          "url": "http://createdigitalmotion.com/2009/02/12/simple-diy-3d-scanning-projector-camera-processing/#more-3328"
+        },
+        {
+          "text": "in el pa\u00eds",
+          "url": "http://www.elpais.com/articulo/madrid/bailarin/doble/virtual/elpepiespmad/20100510elpmad_10/Tes#"
+        },
+        {
+          "text": "at makerbot",
+          "url": "http://wiki.makerbot.com/interview-with-kyle-mcdonald"
+        }
+      ],
+      "image": "diy3dscanner.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "1\u00a2 Grants",
+      "year": "2009",
+      "description": "A project to provide 100 grants at 1\u00a2 cent each. Suspended early due to the high overhead cost of mailing pennies.",
+      "links": [
+        {
+          "text": "recipients",
+          "url": "onecent/index.html"
+        },
+        {
+          "text": "ASDF $1 grants",
+          "url": "http://www.asdfmakes.com/onehundredgrants.html"
+        }
+      ],
+      "image": "onecent.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Vibrobyte",
+      "year": "2008",
+      "description": "The Vibrobyte is a wireless haptic interface specialized for co-located musical performance. It was featured in \"Telemorphosis\" at <a href=\"http://www.icmc2008.net/programme/schedule\">ICMC 2008</a>. Technical details were presented at the <a href=\"http://asa.aip.org/miami/program.html\">156th ASA Meeting</a> and <a href=\"http://www.nime2009.org/\">NIME 2009</a>.",
+      "links": [
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/groups/rpihaptics/"
+        },
+        {
+          "text": "ICMC video",
+          "url": "http://vimeo.com/1623028"
+        },
+        {
+          "text": "NIME poster",
+          "url": "vibrobyte/nime-poster.pdf"
+        },
+        {
+          "text": "short paper",
+          "url": "vibrobyte/nime-vibrobyte-2p.pdf"
+        },
+        {
+          "text": "long paper",
+          "url": "vibrobyte/nime-vibrobyte-6p.pdf"
+        }
+      ],
+      "image": "vibrobyte.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "I Eat Beats",
+      "year": "2008",
+      "description": "Skittle-based beat sequencer, a tangible and edible music interface. v2 implements a generic control surface with the aide of a linear polarizer to cancel out the screen.",
+      "links": [
+        {
+          "text": "v1 video",
+          "url": "http://www.vimeo.com/625464"
+        },
+        {
+          "text": "v2 video",
+          "url": "http://vimeo.com/3273927"
+        },
+        {
+          "text": "v1 processing source",
+          "url": "ieatbeats/source.zip"
+        },
+        {
+          "text": "v2 processing source",
+          "url": "ieatbeats/ieatbeats2.zip"
+        },
+        {
+          "text": "on hackaday",
+          "url": "http://hackaday.com/2008/07/10/tangible-sequencer-interface-with-skittles/"
+        },
+        {
+          "text": "on analog industries",
+          "url": "http://www.analogindustries.com/blog/entry.jsp?msgid=1201075637858"
+        },
+        {
+          "text": "on cdm",
+          "url": "http://createdigitalmusic.com/2008/01/23/sequencing-beats-with-bubble-gum/#comments"
+        }
+      ],
+      "image": "ieatbeats.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "pppd",
+      "year": "2009",
+      "description": "An appropriation of computability theory. During each brief scene, a random sequence of p'' code is generated and run, while the memory it uses is visualized and sonified. An investigation of emergent behavior and computational dreams.",
+      "links": [
+        {
+          "text": "images",
+          "url": "http://www.flickr.com/search/?q=pppd&w=28622838%40N00"
+        },
+        {
+          "text": "view online",
+          "url": "http://www.openprocessing.org/visuals/?visualID=1138"
+        },
+        {
+          "text": "machine dreams exhibition",
+          "url": "http://koian.org/machine_dreams_kyle_mcdonald"
+        }
+      ],
+      "image": "pppd.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Please Remember Me When I'm Gone",
+      "year": "2008",
+      "description": "Exploration of personality, death, and emptiness through a human-scale settlement of handmade dwellings combining video, electronics, and recorded voice. Colors from the sky as it moves from dusk to dark, and from dark to dawn, are sampled from video and routed into the huts.",
+      "links": [
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157610303479861/"
+        },
+        {
+          "text": "discussion",
+          "url": "http://www.openframeworks.cc/forum/viewtopic.php?f=12&t=1409"
+        }
+      ],
+      "image": "pleaserememberme.jpg",
+      "collaborators": [
+        {
+          "name": "Rebecca Weisman",
+          "url": "http://www.arts.rpi.edu/pl/students/rebecca-weisman"
+        }
+      ]
+    },
+    {
+      "name": "Nandhopper",
+      "year": "2008",
+      "description": "Ongoing noise synth explorations, with inspiration from the Kraakdoos, Theremin, Thingamakit, and BEAM electronics.",
+      "links": [
+        {
+          "text": "instructable",
+          "url": "http://www.instructables.com/id/Nandhopper_1_Bit_Noise_Synth/"
+        },
+        {
+          "text": "prototype video",
+          "url": "http://vimeo.com/1249337"
+        },
+        {
+          "text": "v1 video",
+          "url": "http://vimeo.com/2548287"
+        },
+        {
+          "text": "v2 video",
+          "url": "http://vimeo.com/4290143"
+        },
+        {
+          "text": "audio",
+          "url": "http://kylemcdonald.blip.tv/file/1584880/"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157605870055061/"
+        },
+        {
+          "text": "on hackaday",
+          "url": "http://hackaday.com/2008/12/18/nandhopper-1-bit-noise-synth/"
+        }
+      ],
+      "image": "nandhopper.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "DIY 3D Interface",
+      "year": "2008",
+      "description": "Ongoing work with DIY capacitive sensing for 3D interaction. v1 used an Arduino, aluminum foil, and six resistors.",
+      "links": [
+        {
+          "text": "instructable",
+          "url": "http://www.instructables.com/id/DIY-3D-Controller/"
+        },
+        {
+          "text": "video",
+          "url": "http://vimeo.com/1383359"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157606300461792/"
+        },
+        {
+          "text": "on hackaday",
+          "url": "http://hackaday.com/2008/07/23/simple-tracking-in-3d-space/"
+        },
+        {
+          "text": "on gizmodo",
+          "url": "http://gizmodo.com/5028377/amazing-wii+like-3+d-controller-interface-built-with-foil-wiring-resistors-and-arduino"
+        }
+      ],
+      "image": "diy3dinterface.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Future Fragments",
+      "year": "2008",
+      "description": "An anti-time-capsule: quotes from seven fellow art students, transcribed phonetically and encoded as colors. Prints of these colors were carried by the artists for a summer. Decoded back into phonemes and re-formed into words, each text offers an indirect account of their respective journeys.",
+      "links": [
+        {
+          "text": "photos and transcriptions",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157608915887288/"
+        }
+      ],
+      "image": "futurefragments.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Musique Du Vent",
+      "year": "2008",
+      "description": "Reclaiming the entropy of unused dryer heat from a vent outside a freshman dorm, redirecting it into a discarded accordion. During the early Winter, the vent creates a small grassy space surrounded by snow. In March, it's mostly thick mud, but still unexpectedly warm and inviting.",
+      "links": [
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157604033972037/"
+        },
+        {
+          "text": "video",
+          "url": "http://vimeo.com/747455"
+        }
+      ],
+      "image": "musiqeduvent.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Theremug",
+      "year": "2007",
+      "description": "An exercise in simplicity: the most basic capacitive sensor, using the smallest possible number of external components. Requires only an unshielded cable connected to a microphone input.",
+      "links": [
+        {
+          "text": "video",
+          "url": "http://vimeo.com/432353"
+        },
+        {
+          "text": "max patch",
+          "url": "http://www.flickr.com/photos/kylemcdonald/2126494098/"
+        },
+        {
+          "text": "on hackaday",
+          "url": "http://hackaday.com/2008/07/03/tea-cup-theremin/"
+        },
+        {
+          "text": "on cdm",
+          "url": "http://createdigitalmusic.com/2008/11/10/alternative-theremin-on-your-wrist-in-a-mug-of-tea/"
+        }
+      ],
+      "image": "theremug.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Empathy",
+      "year": "2004",
+      "description": "Early Processing work. Don't move too fast, you might scare it. Click to forgive and forget.",
+      "links": [
+        {
+          "text": "view online",
+          "url": "http://www.openprocessing.org/visuals/?visualID=1182"
+        }
+      ],
+      "image": "empathy.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Reflections",
+      "year": "2013",
+      "description": "Sculpture for holiday window display at Barneys New York. Inspired by visual aesthetic of \"Light Leaks\", the sculpture was designed with three.js and Rhino, fabricated from a milled foam base, with generative patterns projected upon the mirrored surface.",
+      "links": [
+        {
+          "text": "photos",
+          "url": "https://www.flickr.com/photos/kylemcdonald/sets/72157637885229946/"
+        },
+        {
+          "text": "on instagram",
+          "url": "http://instagram.com/p/g8L4uaOBYH"
+        },
+        {
+          "text": "code",
+          "url": "https://www.shadertoy.com/view/XsjGWG"
+        }
+      ],
+      "image": "barneys.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "EletroAx\u00e9",
+      "year": "2011",
+      "description": "Experimental percussion interface for Brazilian musician/composer Carlinhos Brown. Performed for a crowd of 50k during the 2011 Carnaval in Salvador, Bahia.",
+      "links": [
+        {
+          "text": "video",
+          "url": "http://vimeo.com/21531156"
+        },
+        {
+          "text": "development photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157626059197671/"
+        },
+        {
+          "text": "on hackaday",
+          "url": "http://hackaday.com/2011/03/31/the-electroaxe-full-body-percussion-suit/"
+        },
+        {
+          "text": "on cdm",
+          "url": "http://createdigitalmusic.com/2011/04/brazilian-rhythms-meet-wireless-wearable-drums-in-an-artist-engineer-collaboration/"
+        }
+      ],
+      "image": "eletroaxe.jpg",
+      "collaborators": [
+        {
+          "name": "Lucas Werthein",
+          "url": "http://www.lucaswerthein.com/"
+        }
+      ]
+    },
+    {
+      "name": "...and Counting",
+      "year": "2010",
+      "description": "Visualization for a full-back tattoo, one dot for each death associated with the war in Iraq: 4k US soldiers in red ink, 100k \"invisible\" civilians in ultraviolet.",
+      "links": [
+        {
+          "text": "project page",
+          "url": "http://www.wafaabilal.com/html/andCounting.php"
+        },
+        {
+          "text": "development pics",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157623266907219/"
+        },
+        {
+          "text": "on we make money not art",
+          "url": "http://www.we-make-money-not-art.com/archives/2010/02/latest-project-by-new-york.php"
+        },
+        {
+          "text": "on nytimes",
+          "url": "http://cityroom.blogs.nytimes.com/2010/03/04/15000-dots-for-iraq-and-counting/"
+        },
+        {
+          "text": "on democracy now",
+          "url": "http://www.democracynow.org/2010/3/9/105_000_tattoos_iraqi_artist_wafaa"
+        },
+        {
+          "text": "on infosthetics",
+          "url": "http://infosthetics.com/archives/2010/02/tattooing_one_dot_for_every_death_with_operation_iraqi_freedom.html"
+        },
+        {
+          "text": "on fast company",
+          "url": "http://www.fastcompany.com/1551413/artist-gets-one-tattoo-for-everyone-who-has-died-in-operation-iraqi-freedom"
+        },
+        {
+          "text": "on good.is",
+          "url": "http://www.good.is/post/one-tattoo-for-every-casualty-of-operation-iraqi-freedom/"
+        }
+      ],
+      "image": "andcounting.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Subdivision of Roam",
+      "year": "2010",
+      "description": "An interactive installation investigating personal shells and their deconstruction. Presented at the NYC Wired Magazine pop-up store 2010, and later developed into \"<a href=\"http://milk.co/treachery\">The Treachery of Sanctuary</a>.\"",
+      "links": [
+        {
+          "text": "video",
+          "url": "https://vimeo.com/92269482"
+        },
+        {
+          "text": "photos",
+          "url": "http://www.flickr.com/photos/kylemcdonald/sets/72157625166019115/"
+        },
+        {
+          "text": "code",
+          "url": "https://github.com/kylemcdonald/SubdivisionOfRoam"
+        }
+      ],
+      "image": "subdivisionofroam.jpg",
+      "collaborators": []
+    },
+    {
+      "name": "Lagoglyphs",
+      "year": "2010",
+      "description": "Flocking of 1400 unique handmade drawings, with an emphasis on the generative mutability of writing. A version of the source was branched, and shared as \"Clouds are Looming\".",
+      "links": [
+        {
+          "text": "oi futuro photos",
+          "url": "http://ekac.org/oi_kac.show_overview.html"
+        },
+        {
+          "text": "debug screen",
+          "url": "http://www.flickr.com/photos/kylemcdonald/4221155305/"
+        },
+        {
+          "text": "video",
+          "url": "http://www.vimeo.com/8479763"
+        },
+        {
+          "text": "processing sketch",
+          "url": "http://openprocessing.org/visuals/?visualID=6753"
+        }
+      ],
+      "image": "lagoglyphs.jpg",
+      "collaborators": [
+        {
+          "name": "Shawn Lawson",
+          "url": "http://www.shawnlawson.com/"
+        },
+        {
+          "name": "Eduardo Kac",
+          "url": "http://ekac.org/"
+        }
+      ]
+    }
+  ]
+}
