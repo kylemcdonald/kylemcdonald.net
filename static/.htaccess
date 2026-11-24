@@ -4,7 +4,7 @@
 </FilesMatch>
 # END php-disabled
 
-# Managed by kylemcdonald.net-svelte.
+# Managed by the kylemcdonald.net repo.
 # Deploy this file with the static site; do not edit it only on the server.
 
 RedirectMatch 301 ^/imessage-visualizer/?$ https://github.com/kylemcdonald/imessage-visualizer
